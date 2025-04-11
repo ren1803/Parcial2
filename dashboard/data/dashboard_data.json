@@ -1,0 +1,6032 @@
+{
+  "company": [
+    {
+      "fecha": "2025-01-01",
+      "produccion_final": 1120,
+      "tasa_defectos": 0.04732142857142857,
+      "tiempo_reparacion_promedio": 3.013764789066174,
+      "ocupacion_suministro": 0.1155954356314381,
+      "retraso_promedio": 2.035130909004192
+    },
+    {
+      "fecha": "2025-01-02",
+      "produccion_final": 1122,
+      "tasa_defectos": 0.05525846702317291,
+      "tiempo_reparacion_promedio": 2.689980827219163,
+      "ocupacion_suministro": 0.1154785906149152,
+      "retraso_promedio": 2.025940186226582
+    },
+    {
+      "fecha": "2025-01-03",
+      "produccion_final": 1132,
+      "tasa_defectos": 0.04240282685512368,
+      "tiempo_reparacion_promedio": 3.161539141757462,
+      "ocupacion_suministro": 0.1163168256866482,
+      "retraso_promedio": 2.040646064678039
+    },
+    {
+      "fecha": "2025-01-04",
+      "produccion_final": 1115,
+      "tasa_defectos": 0.06008968609865471,
+      "tiempo_reparacion_promedio": 3.250928600549835,
+      "ocupacion_suministro": 0.1121393492478421,
+      "retraso_promedio": 1.974284317743698
+    },
+    {
+      "fecha": "2025-01-05",
+      "produccion_final": 1093,
+      "tasa_defectos": 0.06587374199451052,
+      "tiempo_reparacion_promedio": 2.782467275823052,
+      "ocupacion_suministro": 0.1156392149038513,
+      "retraso_promedio": 2.035901670842453
+    },
+    {
+      "fecha": "2025-01-06",
+      "produccion_final": 1104,
+      "tasa_defectos": 0.06974637681159421,
+      "tiempo_reparacion_promedio": 3.004063851957858,
+      "ocupacion_suministro": 0.1129074146699634,
+      "retraso_promedio": 1.980831836315148
+    },
+    {
+      "fecha": "2025-01-07",
+      "produccion_final": 1125,
+      "tasa_defectos": 0.04,
+      "tiempo_reparacion_promedio": 2.882540382387167,
+      "ocupacion_suministro": 0.1137296509096127,
+      "retraso_promedio": 2.009357789922486
+    },
+    {
+      "fecha": "2025-01-08",
+      "produccion_final": 1116,
+      "tasa_defectos": 0.0510752688172043,
+      "tiempo_reparacion_promedio": 3.254406422661709,
+      "ocupacion_suministro": 0.113113544470313,
+      "retraso_promedio": 1.991435642082976
+    },
+    {
+      "fecha": "2025-01-09",
+      "produccion_final": 1107,
+      "tasa_defectos": 0.06323396567299007,
+      "tiempo_reparacion_promedio": 2.967258868064451,
+      "ocupacion_suministro": 0.1153828543388581,
+      "retraso_promedio": 2.024260602436108
+    },
+    {
+      "fecha": "2025-01-10",
+      "produccion_final": 1110,
+      "tasa_defectos": 0.04684684684684685,
+      "tiempo_reparacion_promedio": 3.207610001163528,
+      "ocupacion_suministro": 0.1158049289233419,
+      "retraso_promedio": 2.046023479210987
+    },
+    {
+      "fecha": "2025-01-11",
+      "produccion_final": 1113,
+      "tasa_defectos": 0.05300988319856244,
+      "tiempo_reparacion_promedio": 2.755644357089533,
+      "ocupacion_suministro": 0.1120548511251651,
+      "retraso_promedio": 1.993858560945997
+    },
+    {
+      "fecha": "2025-01-12",
+      "produccion_final": 1123,
+      "tasa_defectos": 0.05253784505788068,
+      "tiempo_reparacion_promedio": 3.048610263138447,
+      "ocupacion_suministro": 0.1142595083445116,
+      "retraso_promedio": 2.004552777973887
+    },
+    {
+      "fecha": "2025-01-13",
+      "produccion_final": 1094,
+      "tasa_defectos": 0.05850091407678245,
+      "tiempo_reparacion_promedio": 2.739734965407437,
+      "ocupacion_suministro": 0.1131881861581144,
+      "retraso_promedio": 2.014024664735132
+    },
+    {
+      "fecha": "2025-01-14",
+      "produccion_final": 1126,
+      "tasa_defectos": 0.05062166962699823,
+      "tiempo_reparacion_promedio": 2.903228548204905,
+      "ocupacion_suministro": 0.1137897060731213,
+      "retraso_promedio": 1.989330525753868
+    },
+    {
+      "fecha": "2025-01-15",
+      "produccion_final": 1112,
+      "tasa_defectos": 0.05485611510791367,
+      "tiempo_reparacion_promedio": 3.05024339187571,
+      "ocupacion_suministro": 0.1153844626665598,
+      "retraso_promedio": 2.03141659624225
+    },
+    {
+      "fecha": "2025-01-16",
+      "produccion_final": 1127,
+      "tasa_defectos": 0.04614019520851819,
+      "tiempo_reparacion_promedio": 2.838609397698375,
+      "ocupacion_suministro": 0.1118756854634938,
+      "retraso_promedio": 1.976602216669503
+    },
+    {
+      "fecha": "2025-01-17",
+      "produccion_final": 1113,
+      "tasa_defectos": 0.05480682839173405,
+      "tiempo_reparacion_promedio": 3.142652309767312,
+      "ocupacion_suministro": 0.1128182785964234,
+      "retraso_promedio": 1.979268045551288
+    },
+    {
+      "fecha": "2025-01-18",
+      "produccion_final": 1085,
+      "tasa_defectos": 0.06912442396313365,
+      "tiempo_reparacion_promedio": 2.744920716869678,
+      "ocupacion_suministro": 0.1135069759706301,
+      "retraso_promedio": 2.012535034940249
+    },
+    {
+      "fecha": "2025-01-19",
+      "produccion_final": 1128,
+      "tasa_defectos": 0.05230496453900709,
+      "tiempo_reparacion_promedio": 3.045526127420862,
+      "ocupacion_suministro": 0.113715725686383,
+      "retraso_promedio": 1.988037162349353
+    },
+    {
+      "fecha": "2025-01-20",
+      "produccion_final": 1142,
+      "tasa_defectos": 0.04115586690017513,
+      "tiempo_reparacion_promedio": 2.540517887843583,
+      "ocupacion_suministro": 0.111597941474003,
+      "retraso_promedio": 1.957858622350929
+    },
+    {
+      "fecha": "2025-01-21",
+      "produccion_final": 1114,
+      "tasa_defectos": 0.05475763016157989,
+      "tiempo_reparacion_promedio": 3.51701814475836,
+      "ocupacion_suministro": 0.1155853155128448,
+      "retraso_promedio": 2.034952737902198
+    },
+    {
+      "fecha": "2025-01-22",
+      "produccion_final": 1106,
+      "tasa_defectos": 0.0515370705244123,
+      "tiempo_reparacion_promedio": 2.942543674468384,
+      "ocupacion_suministro": 0.1131119952739378,
+      "retraso_promedio": 2.005531831098188
+    },
+    {
+      "fecha": "2025-01-23",
+      "produccion_final": 1114,
+      "tasa_defectos": 0.05385996409335727,
+      "tiempo_reparacion_promedio": 3.056869695224067,
+      "ocupacion_suministro": 0.1138095839201951,
+      "retraso_promedio": 1.996659367020968
+    },
+    {
+      "fecha": "2025-01-24",
+      "produccion_final": 1119,
+      "tasa_defectos": 0.05093833780160858,
+      "tiempo_reparacion_promedio": 3.01875627301705,
+      "ocupacion_suministro": 0.11300427183549,
+      "retraso_promedio": 1.982531084833157
+    },
+    {
+      "fecha": "2025-01-25",
+      "produccion_final": 1119,
+      "tasa_defectos": 0.05361930294906166,
+      "tiempo_reparacion_promedio": 3.088344951563266,
+      "ocupacion_suministro": 0.1181767635552828,
+      "retraso_promedio": 2.073276553601452
+    },
+    {
+      "fecha": "2025-01-26",
+      "produccion_final": 1102,
+      "tasa_defectos": 0.06442831215970962,
+      "tiempo_reparacion_promedio": 2.878502419597437,
+      "ocupacion_suministro": 0.1114777594999067,
+      "retraso_promedio": 1.976556019501891
+    },
+    {
+      "fecha": "2025-01-27",
+      "produccion_final": 1100,
+      "tasa_defectos": 0.06090909090909091,
+      "tiempo_reparacion_promedio": 3.037909696506555,
+      "ocupacion_suministro": 0.1129858579608649,
+      "retraso_promedio": 2.017604606444016
+    },
+    {
+      "fecha": "2025-01-28",
+      "produccion_final": 1090,
+      "tasa_defectos": 0.06880733944954129,
+      "tiempo_reparacion_promedio": 3.429655851593317,
+      "ocupacion_suministro": 0.1119884530432984,
+      "retraso_promedio": 1.992677100414562
+    },
+    {
+      "fecha": "2025-01-29",
+      "produccion_final": 1108,
+      "tasa_defectos": 0.05234657039711191,
+      "tiempo_reparacion_promedio": 3.603523468296213,
+      "ocupacion_suministro": 0.1140077964395802,
+      "retraso_promedio": 2.028608477572602
+    },
+    {
+      "fecha": "2025-01-30",
+      "produccion_final": 1123,
+      "tasa_defectos": 0.05431878895814782,
+      "tiempo_reparacion_promedio": 2.86667335644534,
+      "ocupacion_suministro": 0.1123070047239846,
+      "retraso_promedio": 1.970298328490958
+    },
+    {
+      "fecha": "2025-01-31",
+      "produccion_final": 1091,
+      "tasa_defectos": 0.05774518790100825,
+      "tiempo_reparacion_promedio": 2.979159780966012,
+      "ocupacion_suministro": 0.1118005304452378,
+      "retraso_promedio": 1.989333281943733
+    },
+    {
+      "fecha": "2025-02-01",
+      "produccion_final": 1112,
+      "tasa_defectos": 0.05665467625899281,
+      "tiempo_reparacion_promedio": 2.524430089002763,
+      "ocupacion_suministro": 0.1137201659843025,
+      "retraso_promedio": 1.995090631303552
+    },
+    {
+      "fecha": "2025-02-02",
+      "produccion_final": 1129,
+      "tasa_defectos": 0.03277236492471213,
+      "tiempo_reparacion_promedio": 2.556756733423569,
+      "ocupacion_suministro": 0.1122951489286274,
+      "retraso_promedio": 1.998134322573442
+    },
+    {
+      "fecha": "2025-02-03",
+      "produccion_final": 1117,
+      "tasa_defectos": 0.05282005371530887,
+      "tiempo_reparacion_promedio": 3.395818118974783,
+      "ocupacion_suministro": 0.1100774501414006,
+      "retraso_promedio": 1.937983277137334
+    },
+    {
+      "fecha": "2025-02-04",
+      "produccion_final": 1103,
+      "tasa_defectos": 0.04986400725294651,
+      "tiempo_reparacion_promedio": 2.637676647013199,
+      "ocupacion_suministro": 0.1152919915833446,
+      "retraso_promedio": 2.036960982037891
+    },
+    {
+      "fecha": "2025-02-05",
+      "produccion_final": 1133,
+      "tasa_defectos": 0.05207413945278023,
+      "tiempo_reparacion_promedio": 2.35842534011268,
+      "ocupacion_suministro": 0.1140777504039016,
+      "retraso_promedio": 1.994366265802476
+    },
+    {
+      "fecha": "2025-02-06",
+      "produccion_final": 1123,
+      "tasa_defectos": 0.04541406945681211,
+      "tiempo_reparacion_promedio": 2.940170545006513,
+      "ocupacion_suministro": 0.1152604485895494,
+      "retraso_promedio": 2.02923324981601
+    },
+    {
+      "fecha": "2025-02-07",
+      "produccion_final": 1123,
+      "tasa_defectos": 0.05342831700801424,
+      "tiempo_reparacion_promedio": 3.030040293415065,
+      "ocupacion_suministro": 0.1146392257151414,
+      "retraso_promedio": 2.01121448623055
+    },
+    {
+      "fecha": "2025-02-08",
+      "produccion_final": 1136,
+      "tasa_defectos": 0.03961267605633803,
+      "tiempo_reparacion_promedio": 2.837814644184173,
+      "ocupacion_suministro": 0.1148878128721161,
+      "retraso_promedio": 2.008528197064967
+    },
+    {
+      "fecha": "2025-02-09",
+      "produccion_final": 1110,
+      "tasa_defectos": 0.06126126126126126,
+      "tiempo_reparacion_promedio": 3.513175703224147,
+      "ocupacion_suministro": 0.1114842148652203,
+      "retraso_promedio": 1.955863418688075
+    },
+    {
+      "fecha": "2025-02-10",
+      "produccion_final": 1100,
+      "tasa_defectos": 0.05909090909090909,
+      "tiempo_reparacion_promedio": 3.147249887505851,
+      "ocupacion_suministro": 0.1129566426096832,
+      "retraso_promedio": 2.002777351235518
+    },
+    {
+      "fecha": "2025-02-11",
+      "produccion_final": 1121,
+      "tasa_defectos": 0.04995539696699376,
+      "tiempo_reparacion_promedio": 2.717917985724716,
+      "ocupacion_suministro": 0.112031255748949,
+      "retraso_promedio": 1.958588387219387
+    },
+    {
+      "fecha": "2025-02-12",
+      "produccion_final": 1120,
+      "tasa_defectos": 0.05,
+      "tiempo_reparacion_promedio": 3.257009664764562,
+      "ocupacion_suministro": 0.1110421101707457,
+      "retraso_promedio": 1.954966728358199
+    },
+    {
+      "fecha": "2025-02-13",
+      "produccion_final": 1111,
+      "tasa_defectos": 0.06480648064806481,
+      "tiempo_reparacion_promedio": 3.570745253970831,
+      "ocupacion_suministro": 0.1120924306846813,
+      "retraso_promedio": 1.966533871661076
+    },
+    {
+      "fecha": "2025-02-14",
+      "produccion_final": 1109,
+      "tasa_defectos": 0.04779080252479712,
+      "tiempo_reparacion_promedio": 3.360768426643634,
+      "ocupacion_suministro": 0.1118126665283558,
+      "retraso_promedio": 1.982494087382195
+    },
+    {
+      "fecha": "2025-02-15",
+      "produccion_final": 1133,
+      "tasa_defectos": 0.03795233892321271,
+      "tiempo_reparacion_promedio": 3.397398645555487,
+      "ocupacion_suministro": 0.1155732631848164,
+      "retraso_promedio": 2.027601108505551
+    },
+    {
+      "fecha": "2025-02-16",
+      "produccion_final": 1118,
+      "tasa_defectos": 0.05635062611806798,
+      "tiempo_reparacion_promedio": 2.899269342249083,
+      "ocupacion_suministro": 0.1129931635659461,
+      "retraso_promedio": 1.982336202911335
+    },
+    {
+      "fecha": "2025-02-17",
+      "produccion_final": 1120,
+      "tasa_defectos": 0.04821428571428572,
+      "tiempo_reparacion_promedio": 3.269870851584697,
+      "ocupacion_suministro": 0.1120881851986475,
+      "retraso_promedio": 1.966459389449956
+    },
+    {
+      "fecha": "2025-02-18",
+      "produccion_final": 1104,
+      "tasa_defectos": 0.0588768115942029,
+      "tiempo_reparacion_promedio": 3.01280791721162,
+      "ocupacion_suministro": 0.1149009605509085,
+      "retraso_promedio": 2.015806325454535
+    },
+    {
+      "fecha": "2025-02-19",
+      "produccion_final": 1125,
+      "tasa_defectos": 0.04622222222222222,
+      "tiempo_reparacion_promedio": 2.282898678074788,
+      "ocupacion_suministro": 0.1129420085629175,
+      "retraso_promedio": 1.974510639211845
+    },
+    {
+      "fecha": "2025-02-20",
+      "produccion_final": 1103,
+      "tasa_defectos": 0.05530371713508613,
+      "tiempo_reparacion_promedio": 2.689981738095974,
+      "ocupacion_suministro": 0.1106666936183376,
+      "retraso_promedio": 1.969158249436612
+    },
+    {
+      "fecha": "2025-02-21",
+      "produccion_final": 1098,
+      "tasa_defectos": 0.05919854280510018,
+      "tiempo_reparacion_promedio": 3.462288340863808,
+      "ocupacion_suministro": 0.1139011504410408,
+      "retraso_promedio": 2.019523943990085
+    },
+    {
+      "fecha": "2025-02-22",
+      "produccion_final": 1117,
+      "tasa_defectos": 0.04834377797672337,
+      "tiempo_reparacion_promedio": 2.845875785185334,
+      "ocupacion_suministro": 0.112757958101093,
+      "retraso_promedio": 2.006369361229413
+    },
+    {
+      "fecha": "2025-02-23",
+      "produccion_final": 1117,
+      "tasa_defectos": 0.05102954341987467,
+      "tiempo_reparacion_promedio": 2.58352445508751,
+      "ocupacion_suministro": 0.1137629106137012,
+      "retraso_promedio": 2.002868144607415
+    },
+    {
+      "fecha": "2025-02-24",
+      "produccion_final": 1112,
+      "tasa_defectos": 0.04946043165467626,
+      "tiempo_reparacion_promedio": 3.246813735645554,
+      "ocupacion_suministro": 0.1150726939625976,
+      "retraso_promedio": 2.033086465770275
+    },
+    {
+      "fecha": "2025-02-25",
+      "produccion_final": 1120,
+      "tasa_defectos": 0.04732142857142857,
+      "tiempo_reparacion_promedio": 2.816773424116668,
+      "ocupacion_suministro": 0.1121690611200114,
+      "retraso_promedio": 1.974807414084707
+    },
+    {
+      "fecha": "2025-02-26",
+      "produccion_final": 1117,
+      "tasa_defectos": 0.05102954341987467,
+      "tiempo_reparacion_promedio": 3.358029694165021,
+      "ocupacion_suministro": 0.1112470219475842,
+      "retraso_promedio": 1.951702139431301
+    },
+    {
+      "fecha": "2025-02-27",
+      "produccion_final": 1123,
+      "tasa_defectos": 0.04630454140694568,
+      "tiempo_reparacion_promedio": 3.107769734222664,
+      "ocupacion_suministro": 0.1114134587535221,
+      "retraso_promedio": 1.968435667023358
+    },
+    {
+      "fecha": "2025-02-28",
+      "produccion_final": 1126,
+      "tasa_defectos": 0.0497335701598579,
+      "tiempo_reparacion_promedio": 2.743019498544401,
+      "ocupacion_suministro": 0.1149173708174017,
+      "retraso_promedio": 2.016094224866696
+    },
+    {
+      "fecha": "2025-03-01",
+      "produccion_final": 1111,
+      "tasa_defectos": 0.06030603060306031,
+      "tiempo_reparacion_promedio": 2.818573146792804,
+      "ocupacion_suministro": 0.1143135285410719,
+      "retraso_promedio": 2.00550050072056
+    },
+    {
+      "fecha": "2025-03-02",
+      "produccion_final": 1120,
+      "tasa_defectos": 0.05714285714285714,
+      "tiempo_reparacion_promedio": 3.070636995192319,
+      "ocupacion_suministro": 0.1115851834215429,
+      "retraso_promedio": 1.957634796869174
+    },
+    {
+      "fecha": "2025-03-03",
+      "produccion_final": 1108,
+      "tasa_defectos": 0.05685920577617329,
+      "tiempo_reparacion_promedio": 2.767859190568651,
+      "ocupacion_suministro": 0.1116602759347139,
+      "retraso_promedio": 1.958952209380945
+    },
+    {
+      "fecha": "2025-03-04",
+      "produccion_final": 1088,
+      "tasa_defectos": 0.06893382352941177,
+      "tiempo_reparacion_promedio": 3.469587154076039,
+      "ocupacion_suministro": 0.1127653589343869,
+      "retraso_promedio": 2.006501048654571
+    },
+    {
+      "fecha": "2025-03-05",
+      "produccion_final": 1119,
+      "tasa_defectos": 0.05004468275245755,
+      "tiempo_reparacion_promedio": 2.84102834181719,
+      "ocupacion_suministro": 0.1147283402425574,
+      "retraso_promedio": 2.0270024777837
+    },
+    {
+      "fecha": "2025-03-06",
+      "produccion_final": 1110,
+      "tasa_defectos": 0.05765765765765766,
+      "tiempo_reparacion_promedio": 4.290788768303683,
+      "ocupacion_suministro": 0.1154938190694445,
+      "retraso_promedio": 2.033341885025432
+    },
+    {
+      "fecha": "2025-03-07",
+      "produccion_final": 1122,
+      "tasa_defectos": 0.04545454545454546,
+      "tiempo_reparacion_promedio": 2.795500175314183,
+      "ocupacion_suministro": 0.1116049717729694,
+      "retraso_promedio": 1.971819289275077
+    },
+    {
+      "fecha": "2025-03-08",
+      "produccion_final": 1103,
+      "tasa_defectos": 0.05077062556663645,
+      "tiempo_reparacion_promedio": 3.101125654608822,
+      "ocupacion_suministro": 0.113098724384125,
+      "retraso_promedio": 2.012432818222865
+    },
+    {
+      "fecha": "2025-03-09",
+      "produccion_final": 1105,
+      "tasa_defectos": 0.05520361990950226,
+      "tiempo_reparacion_promedio": 3.044289993818925,
+      "ocupacion_suministro": 0.114469445772304,
+      "retraso_promedio": 2.015307143878591
+    },
+    {
+      "fecha": "2025-03-10",
+      "produccion_final": 1134,
+      "tasa_defectos": 0.04232804232804233,
+      "tiempo_reparacion_promedio": 2.498485035543566,
+      "ocupacion_suministro": 0.1127687789506321,
+      "retraso_promedio": 1.985365826595635
+    },
+    {
+      "fecha": "2025-03-11",
+      "produccion_final": 1117,
+      "tasa_defectos": 0.06266786034019696,
+      "tiempo_reparacion_promedio": 3.054336347814551,
+      "ocupacion_suministro": 0.1118670141212296,
+      "retraso_promedio": 1.962579195109292
+    },
+    {
+      "fecha": "2025-03-12",
+      "produccion_final": 1118,
+      "tasa_defectos": 0.04740608228980322,
+      "tiempo_reparacion_promedio": 2.859825234079997,
+      "ocupacion_suministro": 0.1158580060019578,
+      "retraso_promedio": 2.046961236783707
+    },
+    {
+      "fecha": "2025-03-13",
+      "produccion_final": 1124,
+      "tasa_defectos": 0.04893238434163701,
+      "tiempo_reparacion_promedio": 2.26649216431165,
+      "ocupacion_suministro": 0.1163359095977508,
+      "retraso_promedio": 2.040980870135979
+    },
+    {
+      "fecha": "2025-03-14",
+      "produccion_final": 1133,
+      "tasa_defectos": 0.04236540158870256,
+      "tiempo_reparacion_promedio": 2.966627272014721,
+      "ocupacion_suministro": 0.1151059929481458,
+      "retraso_promedio": 2.026513960354679
+    },
+    {
+      "fecha": "2025-03-15",
+      "produccion_final": 1102,
+      "tasa_defectos": 0.06170598911070781,
+      "tiempo_reparacion_promedio": 2.882442444761046,
+      "ocupacion_suministro": 0.1120865264704426,
+      "retraso_promedio": 1.973354339268356
+    },
+    {
+      "fecha": "2025-03-16",
+      "produccion_final": 1101,
+      "tasa_defectos": 0.05812897366030881,
+      "tiempo_reparacion_promedio": 3.327245630812932,
+      "ocupacion_suministro": 0.1098504554247885,
+      "retraso_promedio": 1.940820767222412
+    },
+    {
+      "fecha": "2025-03-17",
+      "produccion_final": 1115,
+      "tasa_defectos": 0.05739910313901345,
+      "tiempo_reparacion_promedio": 3.060486780153747,
+      "ocupacion_suministro": 0.1151837475571026,
+      "retraso_promedio": 2.013701880368927
+    },
+    {
+      "fecha": "2025-03-18",
+      "produccion_final": 1127,
+      "tasa_defectos": 0.05146406388642413,
+      "tiempo_reparacion_promedio": 3.096563287921701,
+      "ocupacion_suministro": 0.1124184073328347,
+      "retraso_promedio": 1.972252760225169
+    },
+    {
+      "fecha": "2025-03-19",
+      "produccion_final": 1122,
+      "tasa_defectos": 0.04901960784313725,
+      "tiempo_reparacion_promedio": 3.200296242263858,
+      "ocupacion_suministro": 0.1164068628512849,
+      "retraso_promedio": 2.04222566405763
+    },
+    {
+      "fecha": "2025-03-20",
+      "produccion_final": 1111,
+      "tasa_defectos": 0.0522052205220522,
+      "tiempo_reparacion_promedio": 2.968564270580522,
+      "ocupacion_suministro": 0.1109739243031025,
+      "retraso_promedio": 1.960670040690856
+    },
+    {
+      "fecha": "2025-03-21",
+      "produccion_final": 1111,
+      "tasa_defectos": 0.05850585058505851,
+      "tiempo_reparacion_promedio": 2.971484649712044,
+      "ocupacion_suministro": 0.1116139517265491,
+      "retraso_promedio": 1.951292862352258
+    },
+    {
+      "fecha": "2025-03-22",
+      "produccion_final": 1113,
+      "tasa_defectos": 0.05300988319856244,
+      "tiempo_reparacion_promedio": 2.895736674414549,
+      "ocupacion_suministro": 0.1092800748196523,
+      "retraso_promedio": 1.93758997907185
+    },
+    {
+      "fecha": "2025-03-23",
+      "produccion_final": 1117,
+      "tasa_defectos": 0.05640107430617726,
+      "tiempo_reparacion_promedio": 3.271458646626687,
+      "ocupacion_suministro": 0.1122526972583401,
+      "retraso_promedio": 1.969345565935792
+    },
+    {
+      "fecha": "2025-03-24",
+      "produccion_final": 1116,
+      "tasa_defectos": 0.0564516129032258,
+      "tiempo_reparacion_promedio": 3.064270836943122,
+      "ocupacion_suministro": 0.1132055643725638,
+      "retraso_promedio": 1.993055710784573
+    },
+    {
+      "fecha": "2025-03-25",
+      "produccion_final": 1107,
+      "tasa_defectos": 0.05781391147244806,
+      "tiempo_reparacion_promedio": 3.393437918438171,
+      "ocupacion_suministro": 0.1154795402749549,
+      "retraso_promedio": 2.033090497798502
+    },
+    {
+      "fecha": "2025-03-26",
+      "produccion_final": 1121,
+      "tasa_defectos": 0.04192685102586976,
+      "tiempo_reparacion_promedio": 2.933116664949998,
+      "ocupacion_suministro": 0.1142501434563808,
+      "retraso_promedio": 2.011446187612339
+    },
+    {
+      "fecha": "2025-03-27",
+      "produccion_final": 1101,
+      "tasa_defectos": 0.05994550408719346,
+      "tiempo_reparacion_promedio": 3.617518225304457,
+      "ocupacion_suministro": 0.1123805794780161,
+      "retraso_promedio": 1.985522605618659
+    },
+    {
+      "fecha": "2025-03-28",
+      "produccion_final": 1120,
+      "tasa_defectos": 0.05,
+      "tiempo_reparacion_promedio": 2.66615968127322,
+      "ocupacion_suministro": 0.1138864733096183,
+      "retraso_promedio": 1.998008303677514
+    },
+    {
+      "fecha": "2025-03-29",
+      "produccion_final": 1116,
+      "tasa_defectos": 0.0510752688172043,
+      "tiempo_reparacion_promedio": 2.937622931120199,
+      "ocupacion_suministro": 0.1158785062960807,
+      "retraso_promedio": 2.054583444965971
+    },
+    {
+      "fecha": "2025-03-30",
+      "produccion_final": 1112,
+      "tasa_defectos": 0.05485611510791367,
+      "tiempo_reparacion_promedio": 2.673124537670564,
+      "ocupacion_suministro": 0.113218863919508,
+      "retraso_promedio": 2.007426665239505
+    },
+    {
+      "fecha": "2025-03-31",
+      "produccion_final": 1097,
+      "tasa_defectos": 0.0601640838650866,
+      "tiempo_reparacion_promedio": 3.577311126614664,
+      "ocupacion_suministro": 0.1121538549590649,
+      "retraso_promedio": 1.981516872068285
+    },
+    {
+      "fecha": "2025-04-01",
+      "produccion_final": 1125,
+      "tasa_defectos": 0.04444444444444445,
+      "tiempo_reparacion_promedio": 3.043767090656662,
+      "ocupacion_suministro": 0.116327629405162,
+      "retraso_promedio": 2.048021644457077
+    },
+    {
+      "fecha": "2025-04-02",
+      "produccion_final": 1133,
+      "tasa_defectos": 0.04677846425419241,
+      "tiempo_reparacion_promedio": 2.597334562399946,
+      "ocupacion_suministro": 0.1135214094069927,
+      "retraso_promedio": 1.984640024597775
+    },
+    {
+      "fecha": "2025-04-03",
+      "produccion_final": 1110,
+      "tasa_defectos": 0.04954954954954955,
+      "tiempo_reparacion_promedio": 3.03283563606698,
+      "ocupacion_suministro": 0.112999634833015,
+      "retraso_promedio": 2.010669658950444
+    },
+    {
+      "fecha": "2025-04-04",
+      "produccion_final": 1117,
+      "tasa_defectos": 0.04923903312444047,
+      "tiempo_reparacion_promedio": 3.257414922847424,
+      "ocupacion_suministro": 0.1133588949968463,
+      "retraso_promedio": 1.995755193606449
+    },
+    {
+      "fecha": "2025-04-05",
+      "produccion_final": 1136,
+      "tasa_defectos": 0.04401408450704225,
+      "tiempo_reparacion_promedio": 2.935711071815056,
+      "ocupacion_suministro": 0.1116260217433815,
+      "retraso_promedio": 1.965246861679252
+    },
+    {
+      "fecha": "2025-04-06",
+      "produccion_final": 1120,
+      "tasa_defectos": 0.05,
+      "tiempo_reparacion_promedio": 2.676948000489728,
+      "ocupacion_suministro": 0.1162284558543566,
+      "retraso_promedio": 2.060788224368024
+    },
+    {
+      "fecha": "2025-04-07",
+      "produccion_final": 1102,
+      "tasa_defectos": 0.05626134301270418,
+      "tiempo_reparacion_promedio": 3.24107861834668,
+      "ocupacion_suministro": 0.1134798162523831,
+      "retraso_promedio": 2.012053479652182
+    },
+    {
+      "fecha": "2025-04-08",
+      "produccion_final": 1114,
+      "tasa_defectos": 0.0466786355475763,
+      "tiempo_reparacion_promedio": 2.561213814334538,
+      "ocupacion_suministro": 0.1107239133278897,
+      "retraso_promedio": 1.97721273799803
+    },
+    {
+      "fecha": "2025-04-09",
+      "produccion_final": 1097,
+      "tasa_defectos": 0.06654512306289881,
+      "tiempo_reparacion_promedio": 3.349910683309635,
+      "ocupacion_suministro": 0.1141352969003137,
+      "retraso_promedio": 2.009424241202706
+    },
+    {
+      "fecha": "2025-04-10",
+      "produccion_final": 1124,
+      "tasa_defectos": 0.04448398576512456,
+      "tiempo_reparacion_promedio": 2.651713273640935,
+      "ocupacion_suministro": 0.1138457192619099,
+      "retraso_promedio": 2.004326043343483
+    }
+  ],
+  "workstation": [
+    {
+      "fecha": "2025-01-01",
+      "estacion_id": 0,
+      "ocupacion": 0.9771916583804292,
+      "inactividad": 0.02280834161957082,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-01",
+      "estacion_id": 1,
+      "ocupacion": 0.974469194604957,
+      "inactividad": 0.02553080539504298,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-01",
+      "estacion_id": 2,
+      "ocupacion": 0.9615510834682406,
+      "inactividad": 0.03844891653175946,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-01",
+      "estacion_id": 3,
+      "ocupacion": 0.9507449203860857,
+      "inactividad": 0.049255079613914315,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-01",
+      "estacion_id": 4,
+      "ocupacion": 0.9340691376538766,
+      "inactividad": 0.06593086234612346,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-01",
+      "estacion_id": 5,
+      "ocupacion": 0.9467195002038621,
+      "inactividad": 0.05328049979613788,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-02",
+      "estacion_id": 0,
+      "ocupacion": 0.9770804473073947,
+      "inactividad": 0.02291955269260524,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-02",
+      "estacion_id": 1,
+      "ocupacion": 0.975571080678303,
+      "inactividad": 0.02442891932169696,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-02",
+      "estacion_id": 2,
+      "ocupacion": 0.9579679954652426,
+      "inactividad": 0.04203200453475748,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-02",
+      "estacion_id": 3,
+      "ocupacion": 0.9561679918546694,
+      "inactividad": 0.04383200814533066,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-02",
+      "estacion_id": 4,
+      "ocupacion": 0.9528483761438341,
+      "inactividad": 0.047151623856165864,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-02",
+      "estacion_id": 5,
+      "ocupacion": 0.9461212842509713,
+      "inactividad": 0.05387871574902874,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-03",
+      "estacion_id": 0,
+      "ocupacion": 0.9774513942895053,
+      "inactividad": 0.022548605710494662,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-03",
+      "estacion_id": 1,
+      "ocupacion": 0.9643335731688034,
+      "inactividad": 0.03566642683119662,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-03",
+      "estacion_id": 2,
+      "ocupacion": 0.9580546048942411,
+      "inactividad": 0.041945395105758884,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-03",
+      "estacion_id": 3,
+      "ocupacion": 0.9444596622982768,
+      "inactividad": 0.05554033770172318,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-03",
+      "estacion_id": 4,
+      "ocupacion": 0.9483367458836228,
+      "inactividad": 0.05166325411637718,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-03",
+      "estacion_id": 5,
+      "ocupacion": 0.9418127189462342,
+      "inactividad": 0.05818728105376576,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-04",
+      "estacion_id": 0,
+      "ocupacion": 0.9778521837083847,
+      "inactividad": 0.02214781629161534,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-04",
+      "estacion_id": 1,
+      "ocupacion": 0.9590984107400922,
+      "inactividad": 0.04090158925990782,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-04",
+      "estacion_id": 2,
+      "ocupacion": 0.9555465101119942,
+      "inactividad": 0.044453489888005786,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-04",
+      "estacion_id": 3,
+      "ocupacion": 0.9514599960509266,
+      "inactividad": 0.04854000394907344,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-04",
+      "estacion_id": 4,
+      "ocupacion": 0.9336443785006735,
+      "inactividad": 0.06635562149932649,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-04",
+      "estacion_id": 5,
+      "ocupacion": 0.9419366204202139,
+      "inactividad": 0.05806337957978613,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-05",
+      "estacion_id": 0,
+      "ocupacion": 0.9772586245965525,
+      "inactividad": 0.02274137540344746,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-05",
+      "estacion_id": 1,
+      "ocupacion": 0.9673595396300301,
+      "inactividad": 0.03264046036996988,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-05",
+      "estacion_id": 2,
+      "ocupacion": 0.9614287193670561,
+      "inactividad": 0.038571280632943857,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-05",
+      "estacion_id": 3,
+      "ocupacion": 0.9472110166557557,
+      "inactividad": 0.0527889833442443,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-05",
+      "estacion_id": 4,
+      "ocupacion": 0.9340314184063487,
+      "inactividad": 0.06596858159365128,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-05",
+      "estacion_id": 5,
+      "ocupacion": 0.9434674515284299,
+      "inactividad": 0.05653254847157004,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-06",
+      "estacion_id": 0,
+      "ocupacion": 0.9735158794237441,
+      "inactividad": 0.026484120576255918,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-06",
+      "estacion_id": 1,
+      "ocupacion": 0.9711827550897693,
+      "inactividad": 0.0288172449102307,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-06",
+      "estacion_id": 2,
+      "ocupacion": 0.9591898808672189,
+      "inactividad": 0.04081011913278108,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-06",
+      "estacion_id": 3,
+      "ocupacion": 0.9545680421157428,
+      "inactividad": 0.04543195788425728,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-06",
+      "estacion_id": 4,
+      "ocupacion": 0.9444259376846854,
+      "inactividad": 0.055574062315314574,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-06",
+      "estacion_id": 5,
+      "ocupacion": 0.9401016888085826,
+      "inactividad": 0.05989831119141746,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-07",
+      "estacion_id": 0,
+      "ocupacion": 0.9729748404658595,
+      "inactividad": 0.02702515953414058,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-07",
+      "estacion_id": 1,
+      "ocupacion": 0.9717205477959704,
+      "inactividad": 0.028279452204029623,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-07",
+      "estacion_id": 2,
+      "ocupacion": 0.9536682413229278,
+      "inactividad": 0.04633175867707214,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-07",
+      "estacion_id": 3,
+      "ocupacion": 0.9397921070511916,
+      "inactividad": 0.06020789294880834,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-07",
+      "estacion_id": 4,
+      "ocupacion": 0.9469899830710765,
+      "inactividad": 0.05301001692892351,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-07",
+      "estacion_id": 5,
+      "ocupacion": 0.9485531242885945,
+      "inactividad": 0.05144687571140548,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-08",
+      "estacion_id": 0,
+      "ocupacion": 0.9771429693194624,
+      "inactividad": 0.02285703068053754,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-08",
+      "estacion_id": 1,
+      "ocupacion": 0.9562610966571247,
+      "inactividad": 0.04373890334287534,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-08",
+      "estacion_id": 2,
+      "ocupacion": 0.9592360683772185,
+      "inactividad": 0.04076393162278146,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-08",
+      "estacion_id": 3,
+      "ocupacion": 0.9532489902781952,
+      "inactividad": 0.0467510097218048,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-08",
+      "estacion_id": 4,
+      "ocupacion": 0.9411698607816626,
+      "inactividad": 0.058830139218337366,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-08",
+      "estacion_id": 5,
+      "ocupacion": 0.9469146196247981,
+      "inactividad": 0.05308538037520194,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-09",
+      "estacion_id": 0,
+      "ocupacion": 0.9769157615583283,
+      "inactividad": 0.02308423844167174,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-09",
+      "estacion_id": 1,
+      "ocupacion": 0.9752971752224352,
+      "inactividad": 0.02470282477756482,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-09",
+      "estacion_id": 2,
+      "ocupacion": 0.9467461372177024,
+      "inactividad": 0.05325386278229762,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-09",
+      "estacion_id": 3,
+      "ocupacion": 0.9486989132849872,
+      "inactividad": 0.05130108671501277,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-09",
+      "estacion_id": 4,
+      "ocupacion": 0.9510272686025358,
+      "inactividad": 0.04897273139746412,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-09",
+      "estacion_id": 5,
+      "ocupacion": 0.95500341430683,
+      "inactividad": 0.04499658569316998,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-10",
+      "estacion_id": 0,
+      "ocupacion": 0.9753593869110576,
+      "inactividad": 0.02464061308894234,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-10",
+      "estacion_id": 1,
+      "ocupacion": 0.9582915621215848,
+      "inactividad": 0.04170843787841514,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-10",
+      "estacion_id": 2,
+      "ocupacion": 0.9541369690420739,
+      "inactividad": 0.0458630309579261,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-10",
+      "estacion_id": 3,
+      "ocupacion": 0.9420682571764776,
+      "inactividad": 0.05793174282352248,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-10",
+      "estacion_id": 4,
+      "ocupacion": 0.9324167435237463,
+      "inactividad": 0.0675832564762537,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-10",
+      "estacion_id": 5,
+      "ocupacion": 0.9303881476937073,
+      "inactividad": 0.06961185230629273,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-11",
+      "estacion_id": 0,
+      "ocupacion": 0.9724085397979235,
+      "inactividad": 0.02759146020207646,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-11",
+      "estacion_id": 1,
+      "ocupacion": 0.9630341005751785,
+      "inactividad": 0.0369658994248215,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-11",
+      "estacion_id": 2,
+      "ocupacion": 0.9572306827039847,
+      "inactividad": 0.04276931729601528,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-11",
+      "estacion_id": 3,
+      "ocupacion": 0.9425847941298754,
+      "inactividad": 0.05741520587012455,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-11",
+      "estacion_id": 4,
+      "ocupacion": 0.9314164477858327,
+      "inactividad": 0.06858355221416731,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-11",
+      "estacion_id": 5,
+      "ocupacion": 0.9398918107506524,
+      "inactividad": 0.06010818924934756,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-12",
+      "estacion_id": 0,
+      "ocupacion": 0.9777529528575433,
+      "inactividad": 0.02224704714245672,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-12",
+      "estacion_id": 1,
+      "ocupacion": 0.9686057507631053,
+      "inactividad": 0.03139424923689476,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-12",
+      "estacion_id": 2,
+      "ocupacion": 0.9538084252080322,
+      "inactividad": 0.04619157479196784,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-12",
+      "estacion_id": 3,
+      "ocupacion": 0.9403757610604806,
+      "inactividad": 0.05962423893951946,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-12",
+      "estacion_id": 4,
+      "ocupacion": 0.9531760562106487,
+      "inactividad": 0.04682394378935132,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-12",
+      "estacion_id": 5,
+      "ocupacion": 0.9476639712436948,
+      "inactividad": 0.05233602875630514,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-13",
+      "estacion_id": 0,
+      "ocupacion": 0.975021238363269,
+      "inactividad": 0.024978761636731,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-13",
+      "estacion_id": 1,
+      "ocupacion": 0.9725762186683665,
+      "inactividad": 0.02742378133163348,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-13",
+      "estacion_id": 2,
+      "ocupacion": 0.9627978844807878,
+      "inactividad": 0.0372021155192122,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-13",
+      "estacion_id": 3,
+      "ocupacion": 0.9447709510416328,
+      "inactividad": 0.05522904895836728,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-13",
+      "estacion_id": 4,
+      "ocupacion": 0.9269189512177559,
+      "inactividad": 0.07308104878224404,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-13",
+      "estacion_id": 5,
+      "ocupacion": 0.9176715444240737,
+      "inactividad": 0.08232845557592629,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-14",
+      "estacion_id": 0,
+      "ocupacion": 0.9755164660845036,
+      "inactividad": 0.02448353391549644,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-14",
+      "estacion_id": 1,
+      "ocupacion": 0.9735411085356396,
+      "inactividad": 0.026458891464360382,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-14",
+      "estacion_id": 2,
+      "ocupacion": 0.958988813459798,
+      "inactividad": 0.041011186540201916,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-14",
+      "estacion_id": 3,
+      "ocupacion": 0.9525712747283526,
+      "inactividad": 0.04742872527164746,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-14",
+      "estacion_id": 4,
+      "ocupacion": 0.939637481570734,
+      "inactividad": 0.06036251842926593,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-14",
+      "estacion_id": 5,
+      "ocupacion": 0.94084055449152,
+      "inactividad": 0.059159445508479985,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-15",
+      "estacion_id": 0,
+      "ocupacion": 0.9808866723357436,
+      "inactividad": 0.019113327664256396,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-15",
+      "estacion_id": 1,
+      "ocupacion": 0.9746440999887471,
+      "inactividad": 0.02535590001125292,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-15",
+      "estacion_id": 2,
+      "ocupacion": 0.964022878955054,
+      "inactividad": 0.03597712104494604,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-15",
+      "estacion_id": 3,
+      "ocupacion": 0.9425970007808614,
+      "inactividad": 0.057402999219138655,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-15",
+      "estacion_id": 4,
+      "ocupacion": 0.941561814429512,
+      "inactividad": 0.05843818557048799,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-15",
+      "estacion_id": 5,
+      "ocupacion": 0.9409693665201108,
+      "inactividad": 0.05903063347988918,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-16",
+      "estacion_id": 0,
+      "ocupacion": 0.9735304045599888,
+      "inactividad": 0.026469595440011102,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-16",
+      "estacion_id": 1,
+      "ocupacion": 0.9721447523284378,
+      "inactividad": 0.027855247671562222,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-16",
+      "estacion_id": 2,
+      "ocupacion": 0.9441417599884775,
+      "inactividad": 0.0558582400115225,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-16",
+      "estacion_id": 3,
+      "ocupacion": 0.9370405583202978,
+      "inactividad": 0.06295944167970227,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-16",
+      "estacion_id": 4,
+      "ocupacion": 0.9411195894712797,
+      "inactividad": 0.058880410528720326,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-16",
+      "estacion_id": 5,
+      "ocupacion": 0.9511523816497877,
+      "inactividad": 0.04884761835021236,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-17",
+      "estacion_id": 0,
+      "ocupacion": 0.9747577880696152,
+      "inactividad": 0.02524221193038484,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-17",
+      "estacion_id": 1,
+      "ocupacion": 0.9747528188378201,
+      "inactividad": 0.02524718116217992,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-17",
+      "estacion_id": 2,
+      "ocupacion": 0.9678651540631734,
+      "inactividad": 0.0321348459368266,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-17",
+      "estacion_id": 3,
+      "ocupacion": 0.9602348479798885,
+      "inactividad": 0.0397651520201116,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-17",
+      "estacion_id": 4,
+      "ocupacion": 0.9566337513266296,
+      "inactividad": 0.04336624867337032,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-17",
+      "estacion_id": 5,
+      "ocupacion": 0.9557103626587574,
+      "inactividad": 0.04428963734124264,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-18",
+      "estacion_id": 0,
+      "ocupacion": 0.9749105470639755,
+      "inactividad": 0.02508945293602446,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-18",
+      "estacion_id": 1,
+      "ocupacion": 0.9642909123631435,
+      "inactividad": 0.03570908763685656,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-18",
+      "estacion_id": 2,
+      "ocupacion": 0.9621667523486107,
+      "inactividad": 0.03783324765138932,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-18",
+      "estacion_id": 3,
+      "ocupacion": 0.9489636821054375,
+      "inactividad": 0.05103631789456248,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-18",
+      "estacion_id": 4,
+      "ocupacion": 0.9240959351217259,
+      "inactividad": 0.07590406487827404,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-18",
+      "estacion_id": 5,
+      "ocupacion": 0.9377388094330714,
+      "inactividad": 0.0622611905669286,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-19",
+      "estacion_id": 0,
+      "ocupacion": 0.9780583086000962,
+      "inactividad": 0.02194169139990372,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-19",
+      "estacion_id": 1,
+      "ocupacion": 0.9701565160550526,
+      "inactividad": 0.02984348394494736,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-19",
+      "estacion_id": 2,
+      "ocupacion": 0.9653544359143341,
+      "inactividad": 0.03464556408566586,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-19",
+      "estacion_id": 3,
+      "ocupacion": 0.9528472861403048,
+      "inactividad": 0.047152713859695175,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-19",
+      "estacion_id": 4,
+      "ocupacion": 0.9553926925369111,
+      "inactividad": 0.0446073074630889,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-19",
+      "estacion_id": 5,
+      "ocupacion": 0.9540768571422974,
+      "inactividad": 0.04592314285770262,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-20",
+      "estacion_id": 0,
+      "ocupacion": 0.9774506494364992,
+      "inactividad": 0.02254935056350078,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-20",
+      "estacion_id": 1,
+      "ocupacion": 0.969892293291556,
+      "inactividad": 0.03010770670844394,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-20",
+      "estacion_id": 2,
+      "ocupacion": 0.961054930019805,
+      "inactividad": 0.03894506998019496,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-20",
+      "estacion_id": 3,
+      "ocupacion": 0.9511667147192433,
+      "inactividad": 0.04883328528075672,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-20",
+      "estacion_id": 4,
+      "ocupacion": 0.9598052823938963,
+      "inactividad": 0.04019471760610376,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-20",
+      "estacion_id": 5,
+      "ocupacion": 0.9444180568244767,
+      "inactividad": 0.05558194317552334,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-21",
+      "estacion_id": 0,
+      "ocupacion": 0.9746306898262878,
+      "inactividad": 0.02536931017371226,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-21",
+      "estacion_id": 1,
+      "ocupacion": 0.9648856579560532,
+      "inactividad": 0.03511434204394682,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-21",
+      "estacion_id": 2,
+      "ocupacion": 0.960775313395635,
+      "inactividad": 0.039224686604364976,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-21",
+      "estacion_id": 3,
+      "ocupacion": 0.9428597905251843,
+      "inactividad": 0.057140209474815684,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-21",
+      "estacion_id": 4,
+      "ocupacion": 0.9366310596481613,
+      "inactividad": 0.06336894035183868,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-21",
+      "estacion_id": 5,
+      "ocupacion": 0.9377136262152228,
+      "inactividad": 0.06228637378477724,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-22",
+      "estacion_id": 0,
+      "ocupacion": 0.9764748608709286,
+      "inactividad": 0.023525139129071438,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-22",
+      "estacion_id": 1,
+      "ocupacion": 0.9662879919451969,
+      "inactividad": 0.033712008054803115,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-22",
+      "estacion_id": 2,
+      "ocupacion": 0.9694073908277049,
+      "inactividad": 0.03059260917229512,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-22",
+      "estacion_id": 3,
+      "ocupacion": 0.9471283853811894,
+      "inactividad": 0.0528716146188106,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-22",
+      "estacion_id": 4,
+      "ocupacion": 0.9384852095236944,
+      "inactividad": 0.06151479047630564,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-22",
+      "estacion_id": 5,
+      "ocupacion": 0.9388400295155088,
+      "inactividad": 0.061159970484491157,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-23",
+      "estacion_id": 0,
+      "ocupacion": 0.9757840878696236,
+      "inactividad": 0.024215912130376462,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-23",
+      "estacion_id": 1,
+      "ocupacion": 0.9457630348043394,
+      "inactividad": 0.05423696519566056,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-23",
+      "estacion_id": 2,
+      "ocupacion": 0.9616068027710034,
+      "inactividad": 0.03839319722899654,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-23",
+      "estacion_id": 3,
+      "ocupacion": 0.9461547548810144,
+      "inactividad": 0.05384524511898562,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-23",
+      "estacion_id": 4,
+      "ocupacion": 0.9406134477612768,
+      "inactividad": 0.059386552238723196,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-23",
+      "estacion_id": 5,
+      "ocupacion": 0.9457647255595235,
+      "inactividad": 0.054235274440476496,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-24",
+      "estacion_id": 0,
+      "ocupacion": 0.9775895034043229,
+      "inactividad": 0.022410496595677058,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-24",
+      "estacion_id": 1,
+      "ocupacion": 0.9518528298972473,
+      "inactividad": 0.04814717010275272,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-24",
+      "estacion_id": 2,
+      "ocupacion": 0.9588384248407846,
+      "inactividad": 0.04116157515921532,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-24",
+      "estacion_id": 3,
+      "ocupacion": 0.9513158156187305,
+      "inactividad": 0.048684184381269556,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-24",
+      "estacion_id": 4,
+      "ocupacion": 0.9450791755833692,
+      "inactividad": 0.054920824416630785,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-24",
+      "estacion_id": 5,
+      "ocupacion": 0.9401221917978421,
+      "inactividad": 0.05987780820215794,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-25",
+      "estacion_id": 0,
+      "ocupacion": 0.9746344949719649,
+      "inactividad": 0.02536550502803512,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-25",
+      "estacion_id": 1,
+      "ocupacion": 0.9630997289435816,
+      "inactividad": 0.03690027105641838,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-25",
+      "estacion_id": 2,
+      "ocupacion": 0.9670718093436083,
+      "inactividad": 0.03292819065639178,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-25",
+      "estacion_id": 3,
+      "ocupacion": 0.9475666839049017,
+      "inactividad": 0.052433316095098235,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-25",
+      "estacion_id": 4,
+      "ocupacion": 0.9481654762480731,
+      "inactividad": 0.05183452375192681,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-25",
+      "estacion_id": 5,
+      "ocupacion": 0.945834967591969,
+      "inactividad": 0.05416503240803104,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-26",
+      "estacion_id": 0,
+      "ocupacion": 0.9780261074497788,
+      "inactividad": 0.02197389255022118,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-26",
+      "estacion_id": 1,
+      "ocupacion": 0.9612111186883919,
+      "inactividad": 0.03878888131160802,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-26",
+      "estacion_id": 2,
+      "ocupacion": 0.9555517428198443,
+      "inactividad": 0.04444825718015564,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-26",
+      "estacion_id": 3,
+      "ocupacion": 0.941308832768674,
+      "inactividad": 0.05869116723132591,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-26",
+      "estacion_id": 4,
+      "ocupacion": 0.9389292007495716,
+      "inactividad": 0.06107079925042837,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-26",
+      "estacion_id": 5,
+      "ocupacion": 0.9416673386509087,
+      "inactividad": 0.05833266134909136,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-27",
+      "estacion_id": 0,
+      "ocupacion": 0.9702579133078528,
+      "inactividad": 0.029742086692147136,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-27",
+      "estacion_id": 1,
+      "ocupacion": 0.9584844422862238,
+      "inactividad": 0.041515557713776255,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-27",
+      "estacion_id": 2,
+      "ocupacion": 0.9497317521014742,
+      "inactividad": 0.0502682478985258,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-27",
+      "estacion_id": 3,
+      "ocupacion": 0.9267536679631093,
+      "inactividad": 0.07324633203689064,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-27",
+      "estacion_id": 4,
+      "ocupacion": 0.9226399465558496,
+      "inactividad": 0.07736005344415044,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-27",
+      "estacion_id": 5,
+      "ocupacion": 0.9342537518564621,
+      "inactividad": 0.06574624814353792,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-28",
+      "estacion_id": 0,
+      "ocupacion": 0.9760860714754732,
+      "inactividad": 0.023913928524526822,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-28",
+      "estacion_id": 1,
+      "ocupacion": 0.9698943091434047,
+      "inactividad": 0.03010569085659536,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-28",
+      "estacion_id": 2,
+      "ocupacion": 0.9636148765642958,
+      "inactividad": 0.0363851234357042,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-28",
+      "estacion_id": 3,
+      "ocupacion": 0.9385376193206024,
+      "inactividad": 0.06146238067939758,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-28",
+      "estacion_id": 4,
+      "ocupacion": 0.9401112957181736,
+      "inactividad": 0.059888704281826355,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-28",
+      "estacion_id": 5,
+      "ocupacion": 0.9288447461042634,
+      "inactividad": 0.07115525389573668,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-29",
+      "estacion_id": 0,
+      "ocupacion": 0.9733808465835818,
+      "inactividad": 0.026619153416418156,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-29",
+      "estacion_id": 1,
+      "ocupacion": 0.9682445130160073,
+      "inactividad": 0.0317554869839927,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-29",
+      "estacion_id": 2,
+      "ocupacion": 0.9615315325120689,
+      "inactividad": 0.03846846748793104,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-29",
+      "estacion_id": 3,
+      "ocupacion": 0.946925610181874,
+      "inactividad": 0.053074389818125914,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-29",
+      "estacion_id": 4,
+      "ocupacion": 0.9300001637664447,
+      "inactividad": 0.06999983623355528,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-29",
+      "estacion_id": 5,
+      "ocupacion": 0.9229659176616587,
+      "inactividad": 0.07703408233834123,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-30",
+      "estacion_id": 0,
+      "ocupacion": 0.9791801548224854,
+      "inactividad": 0.02081984517751462,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-30",
+      "estacion_id": 1,
+      "ocupacion": 0.9713780722750484,
+      "inactividad": 0.02862192772495164,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-30",
+      "estacion_id": 2,
+      "ocupacion": 0.9666591686510979,
+      "inactividad": 0.03334083134890206,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-30",
+      "estacion_id": 3,
+      "ocupacion": 0.9498212785756108,
+      "inactividad": 0.05017872142438918,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-30",
+      "estacion_id": 4,
+      "ocupacion": 0.9557792076880304,
+      "inactividad": 0.044220792311969674,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-30",
+      "estacion_id": 5,
+      "ocupacion": 0.9537975705588324,
+      "inactividad": 0.04620242944116762,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-31",
+      "estacion_id": 0,
+      "ocupacion": 0.9750919575713662,
+      "inactividad": 0.02490804242863378,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-31",
+      "estacion_id": 1,
+      "ocupacion": 0.963357658728392,
+      "inactividad": 0.03664234127160798,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-31",
+      "estacion_id": 2,
+      "ocupacion": 0.9732990597130742,
+      "inactividad": 0.02670094028692584,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-31",
+      "estacion_id": 3,
+      "ocupacion": 0.9446540270585401,
+      "inactividad": 0.055345972941459876,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-31",
+      "estacion_id": 4,
+      "ocupacion": 0.9286311975546488,
+      "inactividad": 0.07136880244535114,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-01-31",
+      "estacion_id": 5,
+      "ocupacion": 0.9315979559484558,
+      "inactividad": 0.06840204405154418,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-01",
+      "estacion_id": 0,
+      "ocupacion": 0.974103129247306,
+      "inactividad": 0.02589687075269394,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-01",
+      "estacion_id": 1,
+      "ocupacion": 0.9701047618992434,
+      "inactividad": 0.02989523810075662,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-01",
+      "estacion_id": 2,
+      "ocupacion": 0.9606115793936855,
+      "inactividad": 0.0393884206063145,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-01",
+      "estacion_id": 3,
+      "ocupacion": 0.9474020353228847,
+      "inactividad": 0.052597964677115305,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-01",
+      "estacion_id": 4,
+      "ocupacion": 0.9349130912694266,
+      "inactividad": 0.06508690873057348,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-01",
+      "estacion_id": 5,
+      "ocupacion": 0.9457475234872034,
+      "inactividad": 0.054252476512796605,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-02",
+      "estacion_id": 0,
+      "ocupacion": 0.9776373215719802,
+      "inactividad": 0.02236267842801972,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-02",
+      "estacion_id": 1,
+      "ocupacion": 0.9653603404949271,
+      "inactividad": 0.03463965950507282,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-02",
+      "estacion_id": 2,
+      "ocupacion": 0.9601028998830645,
+      "inactividad": 0.0398971001169355,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-02",
+      "estacion_id": 3,
+      "ocupacion": 0.9394205193020548,
+      "inactividad": 0.060579480697945096,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-02",
+      "estacion_id": 4,
+      "ocupacion": 0.9344445457922004,
+      "inactividad": 0.06555545420779964,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-02",
+      "estacion_id": 5,
+      "ocupacion": 0.9260043631379198,
+      "inactividad": 0.0739956368620802,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-03",
+      "estacion_id": 0,
+      "ocupacion": 0.9731753626059257,
+      "inactividad": 0.026824637394074303,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-03",
+      "estacion_id": 1,
+      "ocupacion": 0.9635529613641738,
+      "inactividad": 0.03644703863582618,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-03",
+      "estacion_id": 2,
+      "ocupacion": 0.9481728401382241,
+      "inactividad": 0.0518271598617759,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-03",
+      "estacion_id": 3,
+      "ocupacion": 0.952923516130843,
+      "inactividad": 0.047076483869156985,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-03",
+      "estacion_id": 4,
+      "ocupacion": 0.9466836927579328,
+      "inactividad": 0.05331630724206716,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-03",
+      "estacion_id": 5,
+      "ocupacion": 0.9483913329990077,
+      "inactividad": 0.05160866700099232,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-04",
+      "estacion_id": 0,
+      "ocupacion": 0.9782852637098458,
+      "inactividad": 0.02171473629015418,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-04",
+      "estacion_id": 1,
+      "ocupacion": 0.970571497199906,
+      "inactividad": 0.02942850280009406,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-04",
+      "estacion_id": 2,
+      "ocupacion": 0.9718953760212867,
+      "inactividad": 0.028104623978713238,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-04",
+      "estacion_id": 3,
+      "ocupacion": 0.9412747420290898,
+      "inactividad": 0.058725257970910195,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-04",
+      "estacion_id": 4,
+      "ocupacion": 0.9276581020292474,
+      "inactividad": 0.07234189797075267,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-04",
+      "estacion_id": 5,
+      "ocupacion": 0.9369194428129664,
+      "inactividad": 0.06308055718703362,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-05",
+      "estacion_id": 0,
+      "ocupacion": 0.9766211485181604,
+      "inactividad": 0.023378851481839602,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-05",
+      "estacion_id": 1,
+      "ocupacion": 0.9668092782244797,
+      "inactividad": 0.033190721775520265,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-05",
+      "estacion_id": 2,
+      "ocupacion": 0.9611287629481301,
+      "inactividad": 0.03887123705186986,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-05",
+      "estacion_id": 3,
+      "ocupacion": 0.9553111265592513,
+      "inactividad": 0.04468887344074864,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-05",
+      "estacion_id": 4,
+      "ocupacion": 0.9400471034437738,
+      "inactividad": 0.059952896556226175,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-05",
+      "estacion_id": 5,
+      "ocupacion": 0.9529029846173278,
+      "inactividad": 0.04709701538267218,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-06",
+      "estacion_id": 0,
+      "ocupacion": 0.9738809347269489,
+      "inactividad": 0.026119065273051096,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-06",
+      "estacion_id": 1,
+      "ocupacion": 0.9758785455671121,
+      "inactividad": 0.02412145443288792,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-06",
+      "estacion_id": 2,
+      "ocupacion": 0.9649861070876834,
+      "inactividad": 0.035013892912316616,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-06",
+      "estacion_id": 3,
+      "ocupacion": 0.9447995988419134,
+      "inactividad": 0.055200401158086596,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-06",
+      "estacion_id": 4,
+      "ocupacion": 0.9510445468211921,
+      "inactividad": 0.04895545317880788,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-06",
+      "estacion_id": 5,
+      "ocupacion": 0.935030925615742,
+      "inactividad": 0.06496907438425806,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-07",
+      "estacion_id": 0,
+      "ocupacion": 0.977850767311237,
+      "inactividad": 0.022149232688763003,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-07",
+      "estacion_id": 1,
+      "ocupacion": 0.9720043503328952,
+      "inactividad": 0.02799564966710478,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-07",
+      "estacion_id": 2,
+      "ocupacion": 0.9510618581024932,
+      "inactividad": 0.048938141897506816,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-07",
+      "estacion_id": 3,
+      "ocupacion": 0.9512134890237867,
+      "inactividad": 0.048786510976213324,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-07",
+      "estacion_id": 4,
+      "ocupacion": 0.9415004661772515,
+      "inactividad": 0.058499533822748515,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-07",
+      "estacion_id": 5,
+      "ocupacion": 0.9535088202487637,
+      "inactividad": 0.04649117975123626,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-08",
+      "estacion_id": 0,
+      "ocupacion": 0.974927972068611,
+      "inactividad": 0.02507202793138894,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-08",
+      "estacion_id": 1,
+      "ocupacion": 0.9726488252578379,
+      "inactividad": 0.02735117474216204,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-08",
+      "estacion_id": 2,
+      "ocupacion": 0.9639474623761305,
+      "inactividad": 0.03605253762386946,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-08",
+      "estacion_id": 3,
+      "ocupacion": 0.9495147675866309,
+      "inactividad": 0.050485232413369156,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-08",
+      "estacion_id": 4,
+      "ocupacion": 0.9287507940874593,
+      "inactividad": 0.07124920591254069,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-08",
+      "estacion_id": 5,
+      "ocupacion": 0.9399668002742428,
+      "inactividad": 0.060033199725757186,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-09",
+      "estacion_id": 0,
+      "ocupacion": 0.9731058432044354,
+      "inactividad": 0.0268941567955646,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-09",
+      "estacion_id": 1,
+      "ocupacion": 0.9627106343919826,
+      "inactividad": 0.037289365608017405,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-09",
+      "estacion_id": 2,
+      "ocupacion": 0.9500450614137047,
+      "inactividad": 0.04995493858629524,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-09",
+      "estacion_id": 3,
+      "ocupacion": 0.9452937704708649,
+      "inactividad": 0.05470622952913508,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-09",
+      "estacion_id": 4,
+      "ocupacion": 0.9437356508484643,
+      "inactividad": 0.05626434915153568,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-09",
+      "estacion_id": 5,
+      "ocupacion": 0.943650485603895,
+      "inactividad": 0.05634951439610504,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-10",
+      "estacion_id": 0,
+      "ocupacion": 0.9764869269744942,
+      "inactividad": 0.023513073025505763,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-10",
+      "estacion_id": 1,
+      "ocupacion": 0.9761716477407762,
+      "inactividad": 0.02382835225922372,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-10",
+      "estacion_id": 2,
+      "ocupacion": 0.9557775628488027,
+      "inactividad": 0.0442224371511973,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-10",
+      "estacion_id": 3,
+      "ocupacion": 0.944866256042655,
+      "inactividad": 0.055133743957344994,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-10",
+      "estacion_id": 4,
+      "ocupacion": 0.9314319918338216,
+      "inactividad": 0.06856800816617835,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-10",
+      "estacion_id": 5,
+      "ocupacion": 0.9340916314668902,
+      "inactividad": 0.06590836853310976,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-11",
+      "estacion_id": 0,
+      "ocupacion": 0.9766913287941407,
+      "inactividad": 0.02330867120585936,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-11",
+      "estacion_id": 1,
+      "ocupacion": 0.9693424003044548,
+      "inactividad": 0.030657599695545098,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-11",
+      "estacion_id": 2,
+      "ocupacion": 0.969664272654243,
+      "inactividad": 0.030335727345757,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-11",
+      "estacion_id": 3,
+      "ocupacion": 0.9517326323740314,
+      "inactividad": 0.04826736762596866,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-11",
+      "estacion_id": 4,
+      "ocupacion": 0.9414899908187928,
+      "inactividad": 0.058510009181207155,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-11",
+      "estacion_id": 5,
+      "ocupacion": 0.9368363818025528,
+      "inactividad": 0.06316361819744724,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-12",
+      "estacion_id": 0,
+      "ocupacion": 0.97604447797662,
+      "inactividad": 0.02395552202338004,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-12",
+      "estacion_id": 1,
+      "ocupacion": 0.9739115073075348,
+      "inactividad": 0.02608849269246512,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-12",
+      "estacion_id": 2,
+      "ocupacion": 0.9583385836572108,
+      "inactividad": 0.0416614163427892,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-12",
+      "estacion_id": 3,
+      "ocupacion": 0.9430252484892986,
+      "inactividad": 0.05697475151070138,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-12",
+      "estacion_id": 4,
+      "ocupacion": 0.9334199222646082,
+      "inactividad": 0.06658007773539176,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-12",
+      "estacion_id": 5,
+      "ocupacion": 0.9312349789720739,
+      "inactividad": 0.0687650210279262,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-13",
+      "estacion_id": 0,
+      "ocupacion": 0.9716162935028083,
+      "inactividad": 0.02838370649719164,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-13",
+      "estacion_id": 1,
+      "ocupacion": 0.9610546517165923,
+      "inactividad": 0.03894534828340766,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-13",
+      "estacion_id": 2,
+      "ocupacion": 0.9671672276105044,
+      "inactividad": 0.03283277238949558,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-13",
+      "estacion_id": 3,
+      "ocupacion": 0.9479246221738385,
+      "inactividad": 0.05207537782616146,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-13",
+      "estacion_id": 4,
+      "ocupacion": 0.950190689543493,
+      "inactividad": 0.04980931045650704,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-13",
+      "estacion_id": 5,
+      "ocupacion": 0.9448052976499403,
+      "inactividad": 0.05519470235005974,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-14",
+      "estacion_id": 0,
+      "ocupacion": 0.9734533179007563,
+      "inactividad": 0.026546682099243664,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-14",
+      "estacion_id": 1,
+      "ocupacion": 0.9749222817757852,
+      "inactividad": 0.02507771822421474,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-14",
+      "estacion_id": 2,
+      "ocupacion": 0.9640067346851929,
+      "inactividad": 0.0359932653148071,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-14",
+      "estacion_id": 3,
+      "ocupacion": 0.9479344172627733,
+      "inactividad": 0.05206558273722676,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-14",
+      "estacion_id": 4,
+      "ocupacion": 0.9312847270939419,
+      "inactividad": 0.06871527290605808,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-14",
+      "estacion_id": 5,
+      "ocupacion": 0.9352411358063369,
+      "inactividad": 0.06475886419366306,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-15",
+      "estacion_id": 0,
+      "ocupacion": 0.9746842907867416,
+      "inactividad": 0.025315709213258382,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-15",
+      "estacion_id": 1,
+      "ocupacion": 0.9779495396744206,
+      "inactividad": 0.022050460325579477,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-15",
+      "estacion_id": 2,
+      "ocupacion": 0.959764011475245,
+      "inactividad": 0.04023598852475498,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-15",
+      "estacion_id": 3,
+      "ocupacion": 0.9466269387152654,
+      "inactividad": 0.05337306128473464,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-15",
+      "estacion_id": 4,
+      "ocupacion": 0.9318215023362655,
+      "inactividad": 0.06817849766373456,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-15",
+      "estacion_id": 5,
+      "ocupacion": 0.9402260297516873,
+      "inactividad": 0.059773970248312616,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-16",
+      "estacion_id": 0,
+      "ocupacion": 0.973591761004856,
+      "inactividad": 0.026408238995143978,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-16",
+      "estacion_id": 1,
+      "ocupacion": 0.9508271545155647,
+      "inactividad": 0.049172845484435325,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-16",
+      "estacion_id": 2,
+      "ocupacion": 0.9641321362176508,
+      "inactividad": 0.0358678637823492,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-16",
+      "estacion_id": 3,
+      "ocupacion": 0.951815766834398,
+      "inactividad": 0.04818423316560202,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-16",
+      "estacion_id": 4,
+      "ocupacion": 0.9517462840679837,
+      "inactividad": 0.04825371593201634,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-16",
+      "estacion_id": 5,
+      "ocupacion": 0.9438241014904394,
+      "inactividad": 0.05617589850956064,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-17",
+      "estacion_id": 0,
+      "ocupacion": 0.9751975590889289,
+      "inactividad": 0.02480244091107106,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-17",
+      "estacion_id": 1,
+      "ocupacion": 0.9731000429990853,
+      "inactividad": 0.02689995700091476,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-17",
+      "estacion_id": 2,
+      "ocupacion": 0.9492771272009816,
+      "inactividad": 0.05072287279901848,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-17",
+      "estacion_id": 3,
+      "ocupacion": 0.9422654103995363,
+      "inactividad": 0.057734589600463744,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-17",
+      "estacion_id": 4,
+      "ocupacion": 0.9460875493005244,
+      "inactividad": 0.053912450699475645,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-17",
+      "estacion_id": 5,
+      "ocupacion": 0.9430099530351005,
+      "inactividad": 0.05699004696489956,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-18",
+      "estacion_id": 0,
+      "ocupacion": 0.9756445342754314,
+      "inactividad": 0.0243554657245686,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-18",
+      "estacion_id": 1,
+      "ocupacion": 0.9682724456462062,
+      "inactividad": 0.03172755435379386,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-18",
+      "estacion_id": 2,
+      "ocupacion": 0.9655627040561628,
+      "inactividad": 0.03443729594383712,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-18",
+      "estacion_id": 3,
+      "ocupacion": 0.9443968553365834,
+      "inactividad": 0.05560314466341659,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-18",
+      "estacion_id": 4,
+      "ocupacion": 0.9382125165233425,
+      "inactividad": 0.061787483476657495,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-18",
+      "estacion_id": 5,
+      "ocupacion": 0.943961108279011,
+      "inactividad": 0.05603889172098898,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-19",
+      "estacion_id": 0,
+      "ocupacion": 0.9747207645131308,
+      "inactividad": 0.02527923548686922,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-19",
+      "estacion_id": 1,
+      "ocupacion": 0.963353198206918,
+      "inactividad": 0.03664680179308198,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-19",
+      "estacion_id": 2,
+      "ocupacion": 0.9564184912528421,
+      "inactividad": 0.04358150874715794,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-19",
+      "estacion_id": 3,
+      "ocupacion": 0.9474291206013442,
+      "inactividad": 0.052570879398655776,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-19",
+      "estacion_id": 4,
+      "ocupacion": 0.946214633302833,
+      "inactividad": 0.053785366697167034,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-19",
+      "estacion_id": 5,
+      "ocupacion": 0.9519626525461217,
+      "inactividad": 0.048037347453878276,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-20",
+      "estacion_id": 0,
+      "ocupacion": 0.9726463390633767,
+      "inactividad": 0.027353660936623243,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-20",
+      "estacion_id": 1,
+      "ocupacion": 0.9690610633041653,
+      "inactividad": 0.03093893669583468,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-20",
+      "estacion_id": 2,
+      "ocupacion": 0.9544236396479735,
+      "inactividad": 0.0455763603520265,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-20",
+      "estacion_id": 3,
+      "ocupacion": 0.9487426078301591,
+      "inactividad": 0.051257392169840946,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-20",
+      "estacion_id": 4,
+      "ocupacion": 0.9339452649579978,
+      "inactividad": 0.06605473504200217,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-20",
+      "estacion_id": 5,
+      "ocupacion": 0.952811358192294,
+      "inactividad": 0.047188641807705975,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-21",
+      "estacion_id": 0,
+      "ocupacion": 0.9763712908926862,
+      "inactividad": 0.023628709107313798,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-21",
+      "estacion_id": 1,
+      "ocupacion": 0.9716961753087547,
+      "inactividad": 0.02830382469124524,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-21",
+      "estacion_id": 2,
+      "ocupacion": 0.9680505767820916,
+      "inactividad": 0.031949423217908404,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-21",
+      "estacion_id": 3,
+      "ocupacion": 0.9367528726632852,
+      "inactividad": 0.06324712733671475,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-21",
+      "estacion_id": 4,
+      "ocupacion": 0.915716377483888,
+      "inactividad": 0.08428362251611199,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-21",
+      "estacion_id": 5,
+      "ocupacion": 0.931333520612967,
+      "inactividad": 0.06866647938703299,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-22",
+      "estacion_id": 0,
+      "ocupacion": 0.9753184084667815,
+      "inactividad": 0.02468159153321848,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-22",
+      "estacion_id": 1,
+      "ocupacion": 0.9701767706566389,
+      "inactividad": 0.02982322934336116,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-22",
+      "estacion_id": 2,
+      "ocupacion": 0.9518442234798867,
+      "inactividad": 0.04815577652011324,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-22",
+      "estacion_id": 3,
+      "ocupacion": 0.9483579135458884,
+      "inactividad": 0.05164208645411164,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-22",
+      "estacion_id": 4,
+      "ocupacion": 0.9436547463834888,
+      "inactividad": 0.056345253616511215,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-22",
+      "estacion_id": 5,
+      "ocupacion": 0.9375404105298106,
+      "inactividad": 0.062459589470189335,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-23",
+      "estacion_id": 0,
+      "ocupacion": 0.9731340967059788,
+      "inactividad": 0.02686590329402116,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-23",
+      "estacion_id": 1,
+      "ocupacion": 0.9714130250401225,
+      "inactividad": 0.02858697495987744,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-23",
+      "estacion_id": 2,
+      "ocupacion": 0.9519521403526594,
+      "inactividad": 0.04804785964734056,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-23",
+      "estacion_id": 3,
+      "ocupacion": 0.9504675144768228,
+      "inactividad": 0.04953248552317728,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-23",
+      "estacion_id": 4,
+      "ocupacion": 0.9463048884993337,
+      "inactividad": 0.05369511150066628,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-23",
+      "estacion_id": 5,
+      "ocupacion": 0.9302603129849513,
+      "inactividad": 0.06973968701504873,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-24",
+      "estacion_id": 0,
+      "ocupacion": 0.9767469756650944,
+      "inactividad": 0.0232530243349056,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-24",
+      "estacion_id": 1,
+      "ocupacion": 0.9732316017022405,
+      "inactividad": 0.026768398297759437,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-24",
+      "estacion_id": 2,
+      "ocupacion": 0.9642624694761149,
+      "inactividad": 0.0357375305238851,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-24",
+      "estacion_id": 3,
+      "ocupacion": 0.9427716909901462,
+      "inactividad": 0.05722830900985372,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-24",
+      "estacion_id": 4,
+      "ocupacion": 0.9486484525241403,
+      "inactividad": 0.05135154747585966,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-24",
+      "estacion_id": 5,
+      "ocupacion": 0.9321346683623668,
+      "inactividad": 0.06786533163763324,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-25",
+      "estacion_id": 0,
+      "ocupacion": 0.9786080452115149,
+      "inactividad": 0.02139195478848506,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-25",
+      "estacion_id": 1,
+      "ocupacion": 0.9660149913665868,
+      "inactividad": 0.03398500863341324,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-25",
+      "estacion_id": 2,
+      "ocupacion": 0.9607366460919206,
+      "inactividad": 0.03926335390807944,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-25",
+      "estacion_id": 3,
+      "ocupacion": 0.9479012534135464,
+      "inactividad": 0.052098746586453686,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-25",
+      "estacion_id": 4,
+      "ocupacion": 0.9358634731481655,
+      "inactividad": 0.06413652685183442,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-25",
+      "estacion_id": 5,
+      "ocupacion": 0.9404076109857988,
+      "inactividad": 0.05959238901420122,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-26",
+      "estacion_id": 0,
+      "ocupacion": 0.9766435982621513,
+      "inactividad": 0.02335640173784868,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-26",
+      "estacion_id": 1,
+      "ocupacion": 0.9723108145059302,
+      "inactividad": 0.027689185494069898,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-26",
+      "estacion_id": 2,
+      "ocupacion": 0.9512378367912661,
+      "inactividad": 0.048762163208733895,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-26",
+      "estacion_id": 3,
+      "ocupacion": 0.9403246713889754,
+      "inactividad": 0.05967532861102465,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-26",
+      "estacion_id": 4,
+      "ocupacion": 0.935124993103694,
+      "inactividad": 0.06487500689630596,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-26",
+      "estacion_id": 5,
+      "ocupacion": 0.9455795669719271,
+      "inactividad": 0.054420433028072875,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-27",
+      "estacion_id": 0,
+      "ocupacion": 0.9765792558737245,
+      "inactividad": 0.02342074412627554,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-27",
+      "estacion_id": 1,
+      "ocupacion": 0.9606011998488558,
+      "inactividad": 0.03939880015114414,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-27",
+      "estacion_id": 2,
+      "ocupacion": 0.9492573402628784,
+      "inactividad": 0.05074265973712154,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-27",
+      "estacion_id": 3,
+      "ocupacion": 0.9456739626763854,
+      "inactividad": 0.05432603732361458,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-27",
+      "estacion_id": 4,
+      "ocupacion": 0.9334787216435271,
+      "inactividad": 0.06652127835647298,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-27",
+      "estacion_id": 5,
+      "ocupacion": 0.9397728512690772,
+      "inactividad": 0.060227148730922817,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-28",
+      "estacion_id": 0,
+      "ocupacion": 0.9734994945993419,
+      "inactividad": 0.02650050540065804,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-28",
+      "estacion_id": 1,
+      "ocupacion": 0.9640397564646517,
+      "inactividad": 0.035960243535348296,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-28",
+      "estacion_id": 2,
+      "ocupacion": 0.9497182311892941,
+      "inactividad": 0.05028176881070594,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-28",
+      "estacion_id": 3,
+      "ocupacion": 0.9567131740830717,
+      "inactividad": 0.04328682591692832,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-28",
+      "estacion_id": 4,
+      "ocupacion": 0.9472297671375369,
+      "inactividad": 0.052770232862463115,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-02-28",
+      "estacion_id": 5,
+      "ocupacion": 0.9434541283659933,
+      "inactividad": 0.056545871634006664,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-01",
+      "estacion_id": 0,
+      "ocupacion": 0.9788158824006605,
+      "inactividad": 0.02118411759933952,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-01",
+      "estacion_id": 1,
+      "ocupacion": 0.96532804926158,
+      "inactividad": 0.03467195073841994,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-01",
+      "estacion_id": 2,
+      "ocupacion": 0.9635350295889701,
+      "inactividad": 0.03646497041102994,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-01",
+      "estacion_id": 3,
+      "ocupacion": 0.9502943326062913,
+      "inactividad": 0.049705667393708804,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-01",
+      "estacion_id": 4,
+      "ocupacion": 0.9397104742613072,
+      "inactividad": 0.06028952573869282,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-01",
+      "estacion_id": 5,
+      "ocupacion": 0.9329799793160474,
+      "inactividad": 0.06702002068395269,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-02",
+      "estacion_id": 0,
+      "ocupacion": 0.9779455456474346,
+      "inactividad": 0.022054454352565343,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-02",
+      "estacion_id": 1,
+      "ocupacion": 0.9768116235018948,
+      "inactividad": 0.0231883764981052,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-02",
+      "estacion_id": 2,
+      "ocupacion": 0.9678212295835634,
+      "inactividad": 0.0321787704164366,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-02",
+      "estacion_id": 3,
+      "ocupacion": 0.9434463112634454,
+      "inactividad": 0.05655368873655463,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-02",
+      "estacion_id": 4,
+      "ocupacion": 0.9520618993016473,
+      "inactividad": 0.04793810069835272,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-02",
+      "estacion_id": 5,
+      "ocupacion": 0.9440152267156549,
+      "inactividad": 0.055984773284345105,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-03",
+      "estacion_id": 0,
+      "ocupacion": 0.9698103516167134,
+      "inactividad": 0.03018964838328666,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-03",
+      "estacion_id": 1,
+      "ocupacion": 0.9653482266336205,
+      "inactividad": 0.03465177336637952,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-03",
+      "estacion_id": 2,
+      "ocupacion": 0.9609373107949812,
+      "inactividad": 0.039062689205018805,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-03",
+      "estacion_id": 3,
+      "ocupacion": 0.9477129630860036,
+      "inactividad": 0.052287036913996415,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-03",
+      "estacion_id": 4,
+      "ocupacion": 0.9379187727155122,
+      "inactividad": 0.0620812272844878,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-03",
+      "estacion_id": 5,
+      "ocupacion": 0.9326579142568436,
+      "inactividad": 0.06734208574315634,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-04",
+      "estacion_id": 0,
+      "ocupacion": 0.9754373356875249,
+      "inactividad": 0.02456266431247514,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-04",
+      "estacion_id": 1,
+      "ocupacion": 0.9698626765240469,
+      "inactividad": 0.03013732347595306,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-04",
+      "estacion_id": 2,
+      "ocupacion": 0.9637363887821399,
+      "inactividad": 0.03626361121786012,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-04",
+      "estacion_id": 3,
+      "ocupacion": 0.9438981779205047,
+      "inactividad": 0.056101822079495274,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-04",
+      "estacion_id": 4,
+      "ocupacion": 0.9252891603023199,
+      "inactividad": 0.07471083969768005,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-04",
+      "estacion_id": 5,
+      "ocupacion": 0.933901176564406,
+      "inactividad": 0.06609882343559402,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-05",
+      "estacion_id": 0,
+      "ocupacion": 0.9777612020278269,
+      "inactividad": 0.022238797972173062,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-05",
+      "estacion_id": 1,
+      "ocupacion": 0.9701464532544697,
+      "inactividad": 0.02985354674553036,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-05",
+      "estacion_id": 2,
+      "ocupacion": 0.9423912659220816,
+      "inactividad": 0.057608734077918416,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-05",
+      "estacion_id": 3,
+      "ocupacion": 0.9423617982402109,
+      "inactividad": 0.05763820175978908,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-05",
+      "estacion_id": 4,
+      "ocupacion": 0.945114766493302,
+      "inactividad": 0.05488523350669802,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-05",
+      "estacion_id": 5,
+      "ocupacion": 0.9362811739644434,
+      "inactividad": 0.06371882603555659,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-06",
+      "estacion_id": 0,
+      "ocupacion": 0.9774324627015365,
+      "inactividad": 0.0225675372984635,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-06",
+      "estacion_id": 1,
+      "ocupacion": 0.9739271820776887,
+      "inactividad": 0.02607281792231134,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-06",
+      "estacion_id": 2,
+      "ocupacion": 0.9635445279922422,
+      "inactividad": 0.036455472007757825,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-06",
+      "estacion_id": 3,
+      "ocupacion": 0.93760135554028,
+      "inactividad": 0.06239864445971998,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-06",
+      "estacion_id": 4,
+      "ocupacion": 0.9330841845200212,
+      "inactividad": 0.06691581547997884,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-06",
+      "estacion_id": 5,
+      "ocupacion": 0.9292909319411233,
+      "inactividad": 0.07070906805887663,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-07",
+      "estacion_id": 0,
+      "ocupacion": 0.9776749024856403,
+      "inactividad": 0.02232509751435974,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-07",
+      "estacion_id": 1,
+      "ocupacion": 0.9662908151349863,
+      "inactividad": 0.03370918486501378,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-07",
+      "estacion_id": 2,
+      "ocupacion": 0.9631743690714387,
+      "inactividad": 0.03682563092856126,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-07",
+      "estacion_id": 3,
+      "ocupacion": 0.9470524970204081,
+      "inactividad": 0.052947502979592005,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-07",
+      "estacion_id": 4,
+      "ocupacion": 0.9400728359888195,
+      "inactividad": 0.059927164011180506,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-07",
+      "estacion_id": 5,
+      "ocupacion": 0.9353738990741325,
+      "inactividad": 0.06462610092586746,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-08",
+      "estacion_id": 0,
+      "ocupacion": 0.9773000195706635,
+      "inactividad": 0.022699980429336578,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-08",
+      "estacion_id": 1,
+      "ocupacion": 0.9688863777204613,
+      "inactividad": 0.03111362227953868,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-08",
+      "estacion_id": 2,
+      "ocupacion": 0.9648975114636321,
+      "inactividad": 0.03510248853636786,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-08",
+      "estacion_id": 3,
+      "ocupacion": 0.9468594336169776,
+      "inactividad": 0.05314056638302246,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-08",
+      "estacion_id": 4,
+      "ocupacion": 0.9314127174197422,
+      "inactividad": 0.06858728258025787,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-08",
+      "estacion_id": 5,
+      "ocupacion": 0.9282111047462813,
+      "inactividad": 0.0717888952537187,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-09",
+      "estacion_id": 0,
+      "ocupacion": 0.9769431705971406,
+      "inactividad": 0.02305682940285934,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-09",
+      "estacion_id": 1,
+      "ocupacion": 0.9718111691017172,
+      "inactividad": 0.028188830898282863,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-09",
+      "estacion_id": 2,
+      "ocupacion": 0.9432526905554438,
+      "inactividad": 0.05674730944455624,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-09",
+      "estacion_id": 3,
+      "ocupacion": 0.9446611593373627,
+      "inactividad": 0.05533884066263726,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-09",
+      "estacion_id": 4,
+      "ocupacion": 0.9405659598354956,
+      "inactividad": 0.059434040164504404,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-09",
+      "estacion_id": 5,
+      "ocupacion": 0.9440055636659156,
+      "inactividad": 0.055994436334084456,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-10",
+      "estacion_id": 0,
+      "ocupacion": 0.9794133706209294,
+      "inactividad": 0.02058662937907066,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-10",
+      "estacion_id": 1,
+      "ocupacion": 0.967339052957841,
+      "inactividad": 0.032660947042159015,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-10",
+      "estacion_id": 2,
+      "ocupacion": 0.9647358829022509,
+      "inactividad": 0.03526411709774912,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-10",
+      "estacion_id": 3,
+      "ocupacion": 0.9444393799727204,
+      "inactividad": 0.055560620027279586,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-10",
+      "estacion_id": 4,
+      "ocupacion": 0.9466783653517369,
+      "inactividad": 0.05332163464826318,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-10",
+      "estacion_id": 5,
+      "ocupacion": 0.9462840536319527,
+      "inactividad": 0.0537159463680473,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-11",
+      "estacion_id": 0,
+      "ocupacion": 0.9765619837858001,
+      "inactividad": 0.02343801621419988,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-11",
+      "estacion_id": 1,
+      "ocupacion": 0.9642461155774558,
+      "inactividad": 0.035753884422544256,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-11",
+      "estacion_id": 2,
+      "ocupacion": 0.9617740595155354,
+      "inactividad": 0.03822594048446462,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-11",
+      "estacion_id": 3,
+      "ocupacion": 0.9524199375919439,
+      "inactividad": 0.04758006240805608,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-11",
+      "estacion_id": 4,
+      "ocupacion": 0.9455293761341169,
+      "inactividad": 0.05447062386588314,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-11",
+      "estacion_id": 5,
+      "ocupacion": 0.9415620678864627,
+      "inactividad": 0.058437932113537316,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-12",
+      "estacion_id": 0,
+      "ocupacion": 0.9750972293362531,
+      "inactividad": 0.02490277066374692,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-12",
+      "estacion_id": 1,
+      "ocupacion": 0.9630411826268277,
+      "inactividad": 0.03695881737317232,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-12",
+      "estacion_id": 2,
+      "ocupacion": 0.9599247845082229,
+      "inactividad": 0.040075215491777075,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-12",
+      "estacion_id": 3,
+      "ocupacion": 0.9481348620236449,
+      "inactividad": 0.051865137976355086,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-12",
+      "estacion_id": 4,
+      "ocupacion": 0.9360696061286679,
+      "inactividad": 0.06393039387133212,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-12",
+      "estacion_id": 5,
+      "ocupacion": 0.942348649964502,
+      "inactividad": 0.05765135003549803,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-13",
+      "estacion_id": 0,
+      "ocupacion": 0.9785379107384873,
+      "inactividad": 0.02146208926151266,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-13",
+      "estacion_id": 1,
+      "ocupacion": 0.9558029990242816,
+      "inactividad": 0.0441970009757184,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-13",
+      "estacion_id": 2,
+      "ocupacion": 0.9651372735574518,
+      "inactividad": 0.034862726442548224,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-13",
+      "estacion_id": 3,
+      "ocupacion": 0.9475635513828771,
+      "inactividad": 0.05243644861712291,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-13",
+      "estacion_id": 4,
+      "ocupacion": 0.954177671264345,
+      "inactividad": 0.045822328735655,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-13",
+      "estacion_id": 5,
+      "ocupacion": 0.9469100686411152,
+      "inactividad": 0.05308993135888486,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-14",
+      "estacion_id": 0,
+      "ocupacion": 0.9789163898273029,
+      "inactividad": 0.02108361017269708,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-14",
+      "estacion_id": 1,
+      "ocupacion": 0.9736303338969002,
+      "inactividad": 0.02636966610309974,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-14",
+      "estacion_id": 2,
+      "ocupacion": 0.9672816428366108,
+      "inactividad": 0.032718357163389195,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-14",
+      "estacion_id": 3,
+      "ocupacion": 0.9520489684000125,
+      "inactividad": 0.04795103159998744,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-14",
+      "estacion_id": 4,
+      "ocupacion": 0.9440506746010011,
+      "inactividad": 0.05594932539899892,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-14",
+      "estacion_id": 5,
+      "ocupacion": 0.9400719693208073,
+      "inactividad": 0.05992803067919268,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-15",
+      "estacion_id": 0,
+      "ocupacion": 0.9722132854379418,
+      "inactividad": 0.02778671456205812,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-15",
+      "estacion_id": 1,
+      "ocupacion": 0.9761979258795817,
+      "inactividad": 0.02380207412041836,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-15",
+      "estacion_id": 2,
+      "ocupacion": 0.953357192587945,
+      "inactividad": 0.04664280741205494,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-15",
+      "estacion_id": 3,
+      "ocupacion": 0.9441238102859759,
+      "inactividad": 0.055876189714024076,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-15",
+      "estacion_id": 4,
+      "ocupacion": 0.9363097813468053,
+      "inactividad": 0.06369021865319464,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-15",
+      "estacion_id": 5,
+      "ocupacion": 0.9323218394054876,
+      "inactividad": 0.06767816059451234,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-16",
+      "estacion_id": 0,
+      "ocupacion": 0.9782976449193509,
+      "inactividad": 0.02170235508064906,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-16",
+      "estacion_id": 1,
+      "ocupacion": 0.9760545579463951,
+      "inactividad": 0.023945442053604903,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-16",
+      "estacion_id": 2,
+      "ocupacion": 0.9539802127489975,
+      "inactividad": 0.046019787251002524,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-16",
+      "estacion_id": 3,
+      "ocupacion": 0.9479610017781759,
+      "inactividad": 0.052038998221824125,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-16",
+      "estacion_id": 4,
+      "ocupacion": 0.9341846531162308,
+      "inactividad": 0.06581534688376924,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-16",
+      "estacion_id": 5,
+      "ocupacion": 0.9311330362301836,
+      "inactividad": 0.06886696376981635,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-17",
+      "estacion_id": 0,
+      "ocupacion": 0.9732174085550894,
+      "inactividad": 0.026782591444910582,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-17",
+      "estacion_id": 1,
+      "ocupacion": 0.972156713972111,
+      "inactividad": 0.027843286027889002,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-17",
+      "estacion_id": 2,
+      "ocupacion": 0.95684578861371,
+      "inactividad": 0.04315421138629008,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-17",
+      "estacion_id": 3,
+      "ocupacion": 0.9544022586872112,
+      "inactividad": 0.04559774131278882,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-17",
+      "estacion_id": 4,
+      "ocupacion": 0.954027591148251,
+      "inactividad": 0.04597240885174906,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-17",
+      "estacion_id": 5,
+      "ocupacion": 0.9567095766120487,
+      "inactividad": 0.04329042338795134,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-18",
+      "estacion_id": 0,
+      "ocupacion": 0.9785212577293251,
+      "inactividad": 0.02147874227067496,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-18",
+      "estacion_id": 1,
+      "ocupacion": 0.9689506842512279,
+      "inactividad": 0.0310493157487721,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-18",
+      "estacion_id": 2,
+      "ocupacion": 0.9608381997657274,
+      "inactividad": 0.039161800234272605,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-18",
+      "estacion_id": 3,
+      "ocupacion": 0.9437970860388799,
+      "inactividad": 0.05620291396112005,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-18",
+      "estacion_id": 4,
+      "ocupacion": 0.9436941043896071,
+      "inactividad": 0.056305895610392884,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-18",
+      "estacion_id": 5,
+      "ocupacion": 0.9463605463278804,
+      "inactividad": 0.053639453672119634,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-19",
+      "estacion_id": 0,
+      "ocupacion": 0.9734620598345984,
+      "inactividad": 0.0265379401654016,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-19",
+      "estacion_id": 1,
+      "ocupacion": 0.9640421378808127,
+      "inactividad": 0.035957862119187306,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-19",
+      "estacion_id": 2,
+      "ocupacion": 0.9667340564458332,
+      "inactividad": 0.03326594355416674,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-19",
+      "estacion_id": 3,
+      "ocupacion": 0.9421599887232643,
+      "inactividad": 0.05784001127673564,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-19",
+      "estacion_id": 4,
+      "ocupacion": 0.9500695513438595,
+      "inactividad": 0.049930448656140484,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-19",
+      "estacion_id": 5,
+      "ocupacion": 0.9516336907493215,
+      "inactividad": 0.04836630925067856,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-20",
+      "estacion_id": 0,
+      "ocupacion": 0.9773650766135601,
+      "inactividad": 0.02263492338643992,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-20",
+      "estacion_id": 1,
+      "ocupacion": 0.9709424148516488,
+      "inactividad": 0.029057585148351238,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-20",
+      "estacion_id": 2,
+      "ocupacion": 0.9689779859283146,
+      "inactividad": 0.0310220140716854,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-20",
+      "estacion_id": 3,
+      "ocupacion": 0.9483899736091307,
+      "inactividad": 0.05161002639086928,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-20",
+      "estacion_id": 4,
+      "ocupacion": 0.9318482354312273,
+      "inactividad": 0.0681517645687727,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-20",
+      "estacion_id": 5,
+      "ocupacion": 0.9243135783313575,
+      "inactividad": 0.07568642166864246,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-21",
+      "estacion_id": 0,
+      "ocupacion": 0.9754360439124828,
+      "inactividad": 0.024563956087517182,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-21",
+      "estacion_id": 1,
+      "ocupacion": 0.9669506658470355,
+      "inactividad": 0.03304933415296454,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-21",
+      "estacion_id": 2,
+      "ocupacion": 0.9613275511122285,
+      "inactividad": 0.0386724488877715,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-21",
+      "estacion_id": 3,
+      "ocupacion": 0.9556853308128115,
+      "inactividad": 0.04431466918718852,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-21",
+      "estacion_id": 4,
+      "ocupacion": 0.9449160725661521,
+      "inactividad": 0.05508392743384792,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-21",
+      "estacion_id": 5,
+      "ocupacion": 0.9530591953501096,
+      "inactividad": 0.04694080464989038,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-22",
+      "estacion_id": 0,
+      "ocupacion": 0.9799197461237338,
+      "inactividad": 0.020080253876266222,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-22",
+      "estacion_id": 1,
+      "ocupacion": 0.9528740973884473,
+      "inactividad": 0.047125902611552736,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-22",
+      "estacion_id": 2,
+      "ocupacion": 0.9635040683314797,
+      "inactividad": 0.036495931668520276,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-22",
+      "estacion_id": 3,
+      "ocupacion": 0.9372893765841093,
+      "inactividad": 0.06271062341589076,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-22",
+      "estacion_id": 4,
+      "ocupacion": 0.9368792553877714,
+      "inactividad": 0.06312074461222855,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-22",
+      "estacion_id": 5,
+      "ocupacion": 0.9413117065645132,
+      "inactividad": 0.058688293435486774,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-23",
+      "estacion_id": 0,
+      "ocupacion": 0.9755420132245423,
+      "inactividad": 0.02445798677545772,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-23",
+      "estacion_id": 1,
+      "ocupacion": 0.9754717031782738,
+      "inactividad": 0.02452829682172614,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-23",
+      "estacion_id": 2,
+      "ocupacion": 0.9606447470156798,
+      "inactividad": 0.03935525298432022,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-23",
+      "estacion_id": 3,
+      "ocupacion": 0.940563724105376,
+      "inactividad": 0.05943627589462394,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-23",
+      "estacion_id": 4,
+      "ocupacion": 0.9372508544614322,
+      "inactividad": 0.06274914553856781,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-23",
+      "estacion_id": 5,
+      "ocupacion": 0.9485071504463415,
+      "inactividad": 0.051492849553658564,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-24",
+      "estacion_id": 0,
+      "ocupacion": 0.9725662113079908,
+      "inactividad": 0.02743378869200914,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-24",
+      "estacion_id": 1,
+      "ocupacion": 0.9677840006892068,
+      "inactividad": 0.03221599931079326,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-24",
+      "estacion_id": 2,
+      "ocupacion": 0.9514369867424226,
+      "inactividad": 0.0485630132575774,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-24",
+      "estacion_id": 3,
+      "ocupacion": 0.9511424149783234,
+      "inactividad": 0.04885758502167664,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-24",
+      "estacion_id": 4,
+      "ocupacion": 0.945483304492728,
+      "inactividad": 0.05451669550727201,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-24",
+      "estacion_id": 5,
+      "ocupacion": 0.9370669277130547,
+      "inactividad": 0.06293307228694538,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-25",
+      "estacion_id": 0,
+      "ocupacion": 0.978781740704559,
+      "inactividad": 0.021218259295441022,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-25",
+      "estacion_id": 1,
+      "ocupacion": 0.9646757465031909,
+      "inactividad": 0.03532425349680906,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-25",
+      "estacion_id": 2,
+      "ocupacion": 0.9629919192387173,
+      "inactividad": 0.0370080807612827,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-25",
+      "estacion_id": 3,
+      "ocupacion": 0.9418093308496785,
+      "inactividad": 0.058190669150321436,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-25",
+      "estacion_id": 4,
+      "ocupacion": 0.9440175596065952,
+      "inactividad": 0.055982440393404796,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-25",
+      "estacion_id": 5,
+      "ocupacion": 0.9543462234268016,
+      "inactividad": 0.04565377657319842,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-26",
+      "estacion_id": 0,
+      "ocupacion": 0.973677696384946,
+      "inactividad": 0.02632230361505408,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-26",
+      "estacion_id": 1,
+      "ocupacion": 0.9737498073207386,
+      "inactividad": 0.026250192679261458,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-26",
+      "estacion_id": 2,
+      "ocupacion": 0.9626630340585367,
+      "inactividad": 0.03733696594146332,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-26",
+      "estacion_id": 3,
+      "ocupacion": 0.9486010234940105,
+      "inactividad": 0.05139897650598942,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-26",
+      "estacion_id": 4,
+      "ocupacion": 0.9509691755125931,
+      "inactividad": 0.04903082448740698,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-26",
+      "estacion_id": 5,
+      "ocupacion": 0.9539787491568271,
+      "inactividad": 0.046021250843172865,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-27",
+      "estacion_id": 0,
+      "ocupacion": 0.9793226486121159,
+      "inactividad": 0.020677351387884117,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-27",
+      "estacion_id": 1,
+      "ocupacion": 0.9764203480031001,
+      "inactividad": 0.023579651996899882,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-27",
+      "estacion_id": 2,
+      "ocupacion": 0.959753390585246,
+      "inactividad": 0.04024660941475394,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-27",
+      "estacion_id": 3,
+      "ocupacion": 0.9390862287013835,
+      "inactividad": 0.060913771298616484,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-27",
+      "estacion_id": 4,
+      "ocupacion": 0.9305454602996784,
+      "inactividad": 0.06945453970032159,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-27",
+      "estacion_id": 5,
+      "ocupacion": 0.9323612431179996,
+      "inactividad": 0.06763875688200041,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-28",
+      "estacion_id": 0,
+      "ocupacion": 0.9786495903068632,
+      "inactividad": 0.021350409693136858,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-28",
+      "estacion_id": 1,
+      "ocupacion": 0.9712310978592646,
+      "inactividad": 0.028768902140735377,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-28",
+      "estacion_id": 2,
+      "ocupacion": 0.9585739747922951,
+      "inactividad": 0.04142602520770488,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-28",
+      "estacion_id": 3,
+      "ocupacion": 0.9568909453834001,
+      "inactividad": 0.04310905461659986,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-28",
+      "estacion_id": 4,
+      "ocupacion": 0.9410075525790078,
+      "inactividad": 0.058992447420992175,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-28",
+      "estacion_id": 5,
+      "ocupacion": 0.9502295473286906,
+      "inactividad": 0.049770452671309445,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-29",
+      "estacion_id": 0,
+      "ocupacion": 0.976309318676315,
+      "inactividad": 0.02369068132368502,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-29",
+      "estacion_id": 1,
+      "ocupacion": 0.9684065605840455,
+      "inactividad": 0.03159343941595452,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-29",
+      "estacion_id": 2,
+      "ocupacion": 0.9606997066651382,
+      "inactividad": 0.039300293334861826,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-29",
+      "estacion_id": 3,
+      "ocupacion": 0.9489036219899388,
+      "inactividad": 0.0510963780100612,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-29",
+      "estacion_id": 4,
+      "ocupacion": 0.9412046190301706,
+      "inactividad": 0.05879538096982942,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-29",
+      "estacion_id": 5,
+      "ocupacion": 0.9378041475223472,
+      "inactividad": 0.062195852477652795,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-30",
+      "estacion_id": 0,
+      "ocupacion": 0.9749803748971086,
+      "inactividad": 0.0250196251028914,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-30",
+      "estacion_id": 1,
+      "ocupacion": 0.9623325445867662,
+      "inactividad": 0.037667455413233804,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-30",
+      "estacion_id": 2,
+      "ocupacion": 0.9584263375922661,
+      "inactividad": 0.0415736624077339,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-30",
+      "estacion_id": 3,
+      "ocupacion": 0.9450487156985775,
+      "inactividad": 0.0549512843014225,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-30",
+      "estacion_id": 4,
+      "ocupacion": 0.9464230750065595,
+      "inactividad": 0.05357692499344048,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-30",
+      "estacion_id": 5,
+      "ocupacion": 0.9430091051787851,
+      "inactividad": 0.056990894821214895,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-31",
+      "estacion_id": 0,
+      "ocupacion": 0.9730822111071855,
+      "inactividad": 0.0269177888928145,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-31",
+      "estacion_id": 1,
+      "ocupacion": 0.9637350289613652,
+      "inactividad": 0.036264971038634755,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-31",
+      "estacion_id": 2,
+      "ocupacion": 0.9653794590759811,
+      "inactividad": 0.03462054092401886,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-31",
+      "estacion_id": 3,
+      "ocupacion": 0.9455282078263677,
+      "inactividad": 0.05447179217363227,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-31",
+      "estacion_id": 4,
+      "ocupacion": 0.9324233870675347,
+      "inactividad": 0.06757661293246528,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-03-31",
+      "estacion_id": 5,
+      "ocupacion": 0.9320267410326787,
+      "inactividad": 0.06797325896732129,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-01",
+      "estacion_id": 0,
+      "ocupacion": 0.9739223156408549,
+      "inactividad": 0.026077684359145138,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-01",
+      "estacion_id": 1,
+      "ocupacion": 0.9772129660721285,
+      "inactividad": 0.02278703392787156,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-01",
+      "estacion_id": 2,
+      "ocupacion": 0.9529000234310526,
+      "inactividad": 0.04709997656894738,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-01",
+      "estacion_id": 3,
+      "ocupacion": 0.9428109242705573,
+      "inactividad": 0.057189075729442616,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-01",
+      "estacion_id": 4,
+      "ocupacion": 0.9448018463681462,
+      "inactividad": 0.05519815363185372,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-01",
+      "estacion_id": 5,
+      "ocupacion": 0.9438617256551817,
+      "inactividad": 0.05613827434481829,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-02",
+      "estacion_id": 0,
+      "ocupacion": 0.9769039987685768,
+      "inactividad": 0.02309600123142318,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-02",
+      "estacion_id": 1,
+      "ocupacion": 0.9746334733466542,
+      "inactividad": 0.02536652665334586,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-02",
+      "estacion_id": 2,
+      "ocupacion": 0.9572199518032,
+      "inactividad": 0.04278004819680008,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-02",
+      "estacion_id": 3,
+      "ocupacion": 0.956176809571315,
+      "inactividad": 0.04382319042868494,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-02",
+      "estacion_id": 4,
+      "ocupacion": 0.9482123212391698,
+      "inactividad": 0.0517876787608302,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-02",
+      "estacion_id": 5,
+      "ocupacion": 0.9471095635331646,
+      "inactividad": 0.0528904364668355,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-03",
+      "estacion_id": 0,
+      "ocupacion": 0.9748603626572833,
+      "inactividad": 0.02513963734271674,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-03",
+      "estacion_id": 1,
+      "ocupacion": 0.9541562201288556,
+      "inactividad": 0.0458437798711444,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-03",
+      "estacion_id": 2,
+      "ocupacion": 0.9564969764496613,
+      "inactividad": 0.04350302355033874,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-03",
+      "estacion_id": 3,
+      "ocupacion": 0.9396956047197403,
+      "inactividad": 0.060304395280259646,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-03",
+      "estacion_id": 4,
+      "ocupacion": 0.9372584313119973,
+      "inactividad": 0.06274156868800274,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-03",
+      "estacion_id": 5,
+      "ocupacion": 0.9379481231346681,
+      "inactividad": 0.062051876865331895,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-04",
+      "estacion_id": 0,
+      "ocupacion": 0.9775207883403093,
+      "inactividad": 0.02247921165969074,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-04",
+      "estacion_id": 1,
+      "ocupacion": 0.9654169916657628,
+      "inactividad": 0.03458300833423728,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-04",
+      "estacion_id": 2,
+      "ocupacion": 0.9658232402153498,
+      "inactividad": 0.034176759784650144,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-04",
+      "estacion_id": 3,
+      "ocupacion": 0.9484041843964255,
+      "inactividad": 0.051595815603574555,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-04",
+      "estacion_id": 4,
+      "ocupacion": 0.9304696463222352,
+      "inactividad": 0.06953035367776485,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-04",
+      "estacion_id": 5,
+      "ocupacion": 0.9409348308612651,
+      "inactividad": 0.05906516913873491,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-05",
+      "estacion_id": 0,
+      "ocupacion": 0.9728933391939191,
+      "inactividad": 0.02710666080608098,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-05",
+      "estacion_id": 1,
+      "ocupacion": 0.9686165285068778,
+      "inactividad": 0.031383471493122116,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-05",
+      "estacion_id": 2,
+      "ocupacion": 0.9537494050300058,
+      "inactividad": 0.0462505949699942,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-05",
+      "estacion_id": 3,
+      "ocupacion": 0.9477078702713899,
+      "inactividad": 0.05229212972861006,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-05",
+      "estacion_id": 4,
+      "ocupacion": 0.9516487387791365,
+      "inactividad": 0.04835126122086348,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-05",
+      "estacion_id": 5,
+      "ocupacion": 0.9589116214839359,
+      "inactividad": 0.04108837851606404,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-06",
+      "estacion_id": 0,
+      "ocupacion": 0.9741616632644121,
+      "inactividad": 0.02583833673558784,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-06",
+      "estacion_id": 1,
+      "ocupacion": 0.946738843689205,
+      "inactividad": 0.053261156310795026,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-06",
+      "estacion_id": 2,
+      "ocupacion": 0.9577815041193444,
+      "inactividad": 0.0422184958806556,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-06",
+      "estacion_id": 3,
+      "ocupacion": 0.9492530210761811,
+      "inactividad": 0.05074697892381882,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-06",
+      "estacion_id": 4,
+      "ocupacion": 0.9403357477837859,
+      "inactividad": 0.05966425221621412,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-06",
+      "estacion_id": 5,
+      "ocupacion": 0.9405437538483767,
+      "inactividad": 0.05945624615162324,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-07",
+      "estacion_id": 0,
+      "ocupacion": 0.9764087398787177,
+      "inactividad": 0.023591260121282362,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-07",
+      "estacion_id": 1,
+      "ocupacion": 0.9638208679527815,
+      "inactividad": 0.03617913204721844,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-07",
+      "estacion_id": 2,
+      "ocupacion": 0.9629071982797366,
+      "inactividad": 0.03709280172026338,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-07",
+      "estacion_id": 3,
+      "ocupacion": 0.9372152980450946,
+      "inactividad": 0.06278470195490536,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-07",
+      "estacion_id": 4,
+      "ocupacion": 0.9335863430964415,
+      "inactividad": 0.06641365690355852,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-07",
+      "estacion_id": 5,
+      "ocupacion": 0.95126994869546,
+      "inactividad": 0.048730051304540015,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-08",
+      "estacion_id": 0,
+      "ocupacion": 0.9778960205796541,
+      "inactividad": 0.02210397942034596,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-08",
+      "estacion_id": 1,
+      "ocupacion": 0.9648640190319686,
+      "inactividad": 0.035135980968031444,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-08",
+      "estacion_id": 2,
+      "ocupacion": 0.9679741992831224,
+      "inactividad": 0.032025800716877516,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-08",
+      "estacion_id": 3,
+      "ocupacion": 0.9534110389587022,
+      "inactividad": 0.046588961041297804,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-08",
+      "estacion_id": 4,
+      "ocupacion": 0.9332747399677508,
+      "inactividad": 0.0667252600322492,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-08",
+      "estacion_id": 5,
+      "ocupacion": 0.9360323538815734,
+      "inactividad": 0.06396764611842663,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-09",
+      "estacion_id": 0,
+      "ocupacion": 0.9727636723981841,
+      "inactividad": 0.0272363276018159,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-09",
+      "estacion_id": 1,
+      "ocupacion": 0.9723076957459201,
+      "inactividad": 0.02769230425407986,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-09",
+      "estacion_id": 2,
+      "ocupacion": 0.9535164926728943,
+      "inactividad": 0.046483507327105676,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-09",
+      "estacion_id": 3,
+      "ocupacion": 0.9511886658962945,
+      "inactividad": 0.04881133410370548,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-09",
+      "estacion_id": 4,
+      "ocupacion": 0.9446328001689294,
+      "inactividad": 0.05536719983107068,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-09",
+      "estacion_id": 5,
+      "ocupacion": 0.9410171230161702,
+      "inactividad": 0.058982876983829736,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-10",
+      "estacion_id": 0,
+      "ocupacion": 0.9765747801842733,
+      "inactividad": 0.02342521981572664,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-10",
+      "estacion_id": 1,
+      "ocupacion": 0.9776433796359001,
+      "inactividad": 0.02235662036409994,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-10",
+      "estacion_id": 2,
+      "ocupacion": 0.9579418761356358,
+      "inactividad": 0.04205812386436428,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-10",
+      "estacion_id": 3,
+      "ocupacion": 0.9535572274394679,
+      "inactividad": 0.0464427725605321,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-10",
+      "estacion_id": 4,
+      "ocupacion": 0.9512822252326585,
+      "inactividad": 0.0487177747673415,
+      "fallos": 0
+    },
+    {
+      "fecha": "2025-04-10",
+      "estacion_id": 5,
+      "ocupacion": 0.948154131350342,
+      "inactividad": 0.05184586864965804,
+      "fallos": 0
+    }
+  ],
+  "time_periods": {
+    "daily": [
+      {
+        "fecha": "2025-01-01",
+        "produccion_final": 1120,
+        "tasa_defectos": 0.04732142857142857,
+        "tiempo_reparacion_promedio": 3.013764789066174,
+        "ocupacion_suministro": 0.1155954356314381,
+        "retraso_promedio": 2.035130909004192
+      },
+      {
+        "fecha": "2025-01-02",
+        "produccion_final": 1122,
+        "tasa_defectos": 0.05525846702317291,
+        "tiempo_reparacion_promedio": 2.689980827219163,
+        "ocupacion_suministro": 0.1154785906149152,
+        "retraso_promedio": 2.025940186226582
+      },
+      {
+        "fecha": "2025-01-03",
+        "produccion_final": 1132,
+        "tasa_defectos": 0.04240282685512368,
+        "tiempo_reparacion_promedio": 3.161539141757462,
+        "ocupacion_suministro": 0.1163168256866482,
+        "retraso_promedio": 2.040646064678039
+      },
+      {
+        "fecha": "2025-01-04",
+        "produccion_final": 1115,
+        "tasa_defectos": 0.06008968609865471,
+        "tiempo_reparacion_promedio": 3.250928600549835,
+        "ocupacion_suministro": 0.1121393492478421,
+        "retraso_promedio": 1.974284317743698
+      },
+      {
+        "fecha": "2025-01-05",
+        "produccion_final": 1093,
+        "tasa_defectos": 0.06587374199451052,
+        "tiempo_reparacion_promedio": 2.782467275823052,
+        "ocupacion_suministro": 0.1156392149038513,
+        "retraso_promedio": 2.035901670842453
+      },
+      {
+        "fecha": "2025-01-06",
+        "produccion_final": 1104,
+        "tasa_defectos": 0.06974637681159421,
+        "tiempo_reparacion_promedio": 3.004063851957858,
+        "ocupacion_suministro": 0.1129074146699634,
+        "retraso_promedio": 1.980831836315148
+      },
+      {
+        "fecha": "2025-01-07",
+        "produccion_final": 1125,
+        "tasa_defectos": 0.04,
+        "tiempo_reparacion_promedio": 2.882540382387167,
+        "ocupacion_suministro": 0.1137296509096127,
+        "retraso_promedio": 2.009357789922486
+      },
+      {
+        "fecha": "2025-01-08",
+        "produccion_final": 1116,
+        "tasa_defectos": 0.0510752688172043,
+        "tiempo_reparacion_promedio": 3.254406422661709,
+        "ocupacion_suministro": 0.113113544470313,
+        "retraso_promedio": 1.991435642082976
+      },
+      {
+        "fecha": "2025-01-09",
+        "produccion_final": 1107,
+        "tasa_defectos": 0.06323396567299007,
+        "tiempo_reparacion_promedio": 2.967258868064451,
+        "ocupacion_suministro": 0.1153828543388581,
+        "retraso_promedio": 2.024260602436108
+      },
+      {
+        "fecha": "2025-01-10",
+        "produccion_final": 1110,
+        "tasa_defectos": 0.04684684684684685,
+        "tiempo_reparacion_promedio": 3.207610001163528,
+        "ocupacion_suministro": 0.1158049289233419,
+        "retraso_promedio": 2.046023479210987
+      },
+      {
+        "fecha": "2025-01-11",
+        "produccion_final": 1113,
+        "tasa_defectos": 0.05300988319856244,
+        "tiempo_reparacion_promedio": 2.755644357089533,
+        "ocupacion_suministro": 0.1120548511251651,
+        "retraso_promedio": 1.993858560945997
+      },
+      {
+        "fecha": "2025-01-12",
+        "produccion_final": 1123,
+        "tasa_defectos": 0.05253784505788068,
+        "tiempo_reparacion_promedio": 3.048610263138447,
+        "ocupacion_suministro": 0.1142595083445116,
+        "retraso_promedio": 2.004552777973887
+      },
+      {
+        "fecha": "2025-01-13",
+        "produccion_final": 1094,
+        "tasa_defectos": 0.05850091407678245,
+        "tiempo_reparacion_promedio": 2.739734965407437,
+        "ocupacion_suministro": 0.1131881861581144,
+        "retraso_promedio": 2.014024664735132
+      },
+      {
+        "fecha": "2025-01-14",
+        "produccion_final": 1126,
+        "tasa_defectos": 0.05062166962699823,
+        "tiempo_reparacion_promedio": 2.903228548204905,
+        "ocupacion_suministro": 0.1137897060731213,
+        "retraso_promedio": 1.989330525753868
+      },
+      {
+        "fecha": "2025-01-15",
+        "produccion_final": 1112,
+        "tasa_defectos": 0.05485611510791367,
+        "tiempo_reparacion_promedio": 3.05024339187571,
+        "ocupacion_suministro": 0.1153844626665598,
+        "retraso_promedio": 2.03141659624225
+      },
+      {
+        "fecha": "2025-01-16",
+        "produccion_final": 1127,
+        "tasa_defectos": 0.04614019520851819,
+        "tiempo_reparacion_promedio": 2.838609397698375,
+        "ocupacion_suministro": 0.1118756854634938,
+        "retraso_promedio": 1.976602216669503
+      },
+      {
+        "fecha": "2025-01-17",
+        "produccion_final": 1113,
+        "tasa_defectos": 0.05480682839173405,
+        "tiempo_reparacion_promedio": 3.142652309767312,
+        "ocupacion_suministro": 0.1128182785964234,
+        "retraso_promedio": 1.979268045551288
+      },
+      {
+        "fecha": "2025-01-18",
+        "produccion_final": 1085,
+        "tasa_defectos": 0.06912442396313365,
+        "tiempo_reparacion_promedio": 2.744920716869678,
+        "ocupacion_suministro": 0.1135069759706301,
+        "retraso_promedio": 2.012535034940249
+      },
+      {
+        "fecha": "2025-01-19",
+        "produccion_final": 1128,
+        "tasa_defectos": 0.05230496453900709,
+        "tiempo_reparacion_promedio": 3.045526127420862,
+        "ocupacion_suministro": 0.113715725686383,
+        "retraso_promedio": 1.988037162349353
+      },
+      {
+        "fecha": "2025-01-20",
+        "produccion_final": 1142,
+        "tasa_defectos": 0.04115586690017513,
+        "tiempo_reparacion_promedio": 2.540517887843583,
+        "ocupacion_suministro": 0.111597941474003,
+        "retraso_promedio": 1.957858622350929
+      },
+      {
+        "fecha": "2025-01-21",
+        "produccion_final": 1114,
+        "tasa_defectos": 0.05475763016157989,
+        "tiempo_reparacion_promedio": 3.51701814475836,
+        "ocupacion_suministro": 0.1155853155128448,
+        "retraso_promedio": 2.034952737902198
+      },
+      {
+        "fecha": "2025-01-22",
+        "produccion_final": 1106,
+        "tasa_defectos": 0.0515370705244123,
+        "tiempo_reparacion_promedio": 2.942543674468384,
+        "ocupacion_suministro": 0.1131119952739378,
+        "retraso_promedio": 2.005531831098188
+      },
+      {
+        "fecha": "2025-01-23",
+        "produccion_final": 1114,
+        "tasa_defectos": 0.05385996409335727,
+        "tiempo_reparacion_promedio": 3.056869695224067,
+        "ocupacion_suministro": 0.1138095839201951,
+        "retraso_promedio": 1.996659367020968
+      },
+      {
+        "fecha": "2025-01-24",
+        "produccion_final": 1119,
+        "tasa_defectos": 0.05093833780160858,
+        "tiempo_reparacion_promedio": 3.01875627301705,
+        "ocupacion_suministro": 0.11300427183549,
+        "retraso_promedio": 1.982531084833157
+      },
+      {
+        "fecha": "2025-01-25",
+        "produccion_final": 1119,
+        "tasa_defectos": 0.05361930294906166,
+        "tiempo_reparacion_promedio": 3.088344951563266,
+        "ocupacion_suministro": 0.1181767635552828,
+        "retraso_promedio": 2.073276553601452
+      },
+      {
+        "fecha": "2025-01-26",
+        "produccion_final": 1102,
+        "tasa_defectos": 0.06442831215970962,
+        "tiempo_reparacion_promedio": 2.878502419597437,
+        "ocupacion_suministro": 0.1114777594999067,
+        "retraso_promedio": 1.976556019501891
+      },
+      {
+        "fecha": "2025-01-27",
+        "produccion_final": 1100,
+        "tasa_defectos": 0.06090909090909091,
+        "tiempo_reparacion_promedio": 3.037909696506555,
+        "ocupacion_suministro": 0.1129858579608649,
+        "retraso_promedio": 2.017604606444016
+      },
+      {
+        "fecha": "2025-01-28",
+        "produccion_final": 1090,
+        "tasa_defectos": 0.06880733944954129,
+        "tiempo_reparacion_promedio": 3.429655851593317,
+        "ocupacion_suministro": 0.1119884530432984,
+        "retraso_promedio": 1.992677100414562
+      },
+      {
+        "fecha": "2025-01-29",
+        "produccion_final": 1108,
+        "tasa_defectos": 0.05234657039711191,
+        "tiempo_reparacion_promedio": 3.603523468296213,
+        "ocupacion_suministro": 0.1140077964395802,
+        "retraso_promedio": 2.028608477572602
+      },
+      {
+        "fecha": "2025-01-30",
+        "produccion_final": 1123,
+        "tasa_defectos": 0.05431878895814782,
+        "tiempo_reparacion_promedio": 2.86667335644534,
+        "ocupacion_suministro": 0.1123070047239846,
+        "retraso_promedio": 1.970298328490958
+      },
+      {
+        "fecha": "2025-01-31",
+        "produccion_final": 1091,
+        "tasa_defectos": 0.05774518790100825,
+        "tiempo_reparacion_promedio": 2.979159780966012,
+        "ocupacion_suministro": 0.1118005304452378,
+        "retraso_promedio": 1.989333281943733
+      },
+      {
+        "fecha": "2025-02-01",
+        "produccion_final": 1112,
+        "tasa_defectos": 0.05665467625899281,
+        "tiempo_reparacion_promedio": 2.524430089002763,
+        "ocupacion_suministro": 0.1137201659843025,
+        "retraso_promedio": 1.995090631303552
+      },
+      {
+        "fecha": "2025-02-02",
+        "produccion_final": 1129,
+        "tasa_defectos": 0.03277236492471213,
+        "tiempo_reparacion_promedio": 2.556756733423569,
+        "ocupacion_suministro": 0.1122951489286274,
+        "retraso_promedio": 1.998134322573442
+      },
+      {
+        "fecha": "2025-02-03",
+        "produccion_final": 1117,
+        "tasa_defectos": 0.05282005371530887,
+        "tiempo_reparacion_promedio": 3.395818118974783,
+        "ocupacion_suministro": 0.1100774501414006,
+        "retraso_promedio": 1.937983277137334
+      },
+      {
+        "fecha": "2025-02-04",
+        "produccion_final": 1103,
+        "tasa_defectos": 0.04986400725294651,
+        "tiempo_reparacion_promedio": 2.637676647013199,
+        "ocupacion_suministro": 0.1152919915833446,
+        "retraso_promedio": 2.036960982037891
+      },
+      {
+        "fecha": "2025-02-05",
+        "produccion_final": 1133,
+        "tasa_defectos": 0.05207413945278023,
+        "tiempo_reparacion_promedio": 2.35842534011268,
+        "ocupacion_suministro": 0.1140777504039016,
+        "retraso_promedio": 1.994366265802476
+      },
+      {
+        "fecha": "2025-02-06",
+        "produccion_final": 1123,
+        "tasa_defectos": 0.04541406945681211,
+        "tiempo_reparacion_promedio": 2.940170545006513,
+        "ocupacion_suministro": 0.1152604485895494,
+        "retraso_promedio": 2.02923324981601
+      },
+      {
+        "fecha": "2025-02-07",
+        "produccion_final": 1123,
+        "tasa_defectos": 0.05342831700801424,
+        "tiempo_reparacion_promedio": 3.030040293415065,
+        "ocupacion_suministro": 0.1146392257151414,
+        "retraso_promedio": 2.01121448623055
+      },
+      {
+        "fecha": "2025-02-08",
+        "produccion_final": 1136,
+        "tasa_defectos": 0.03961267605633803,
+        "tiempo_reparacion_promedio": 2.837814644184173,
+        "ocupacion_suministro": 0.1148878128721161,
+        "retraso_promedio": 2.008528197064967
+      },
+      {
+        "fecha": "2025-02-09",
+        "produccion_final": 1110,
+        "tasa_defectos": 0.06126126126126126,
+        "tiempo_reparacion_promedio": 3.513175703224147,
+        "ocupacion_suministro": 0.1114842148652203,
+        "retraso_promedio": 1.955863418688075
+      },
+      {
+        "fecha": "2025-02-10",
+        "produccion_final": 1100,
+        "tasa_defectos": 0.05909090909090909,
+        "tiempo_reparacion_promedio": 3.147249887505851,
+        "ocupacion_suministro": 0.1129566426096832,
+        "retraso_promedio": 2.002777351235518
+      },
+      {
+        "fecha": "2025-02-11",
+        "produccion_final": 1121,
+        "tasa_defectos": 0.04995539696699376,
+        "tiempo_reparacion_promedio": 2.717917985724716,
+        "ocupacion_suministro": 0.112031255748949,
+        "retraso_promedio": 1.958588387219387
+      },
+      {
+        "fecha": "2025-02-12",
+        "produccion_final": 1120,
+        "tasa_defectos": 0.05,
+        "tiempo_reparacion_promedio": 3.257009664764562,
+        "ocupacion_suministro": 0.1110421101707457,
+        "retraso_promedio": 1.954966728358199
+      },
+      {
+        "fecha": "2025-02-13",
+        "produccion_final": 1111,
+        "tasa_defectos": 0.06480648064806481,
+        "tiempo_reparacion_promedio": 3.570745253970831,
+        "ocupacion_suministro": 0.1120924306846813,
+        "retraso_promedio": 1.966533871661076
+      },
+      {
+        "fecha": "2025-02-14",
+        "produccion_final": 1109,
+        "tasa_defectos": 0.04779080252479712,
+        "tiempo_reparacion_promedio": 3.360768426643634,
+        "ocupacion_suministro": 0.1118126665283558,
+        "retraso_promedio": 1.982494087382195
+      },
+      {
+        "fecha": "2025-02-15",
+        "produccion_final": 1133,
+        "tasa_defectos": 0.03795233892321271,
+        "tiempo_reparacion_promedio": 3.397398645555487,
+        "ocupacion_suministro": 0.1155732631848164,
+        "retraso_promedio": 2.027601108505551
+      },
+      {
+        "fecha": "2025-02-16",
+        "produccion_final": 1118,
+        "tasa_defectos": 0.05635062611806798,
+        "tiempo_reparacion_promedio": 2.899269342249083,
+        "ocupacion_suministro": 0.1129931635659461,
+        "retraso_promedio": 1.982336202911335
+      },
+      {
+        "fecha": "2025-02-17",
+        "produccion_final": 1120,
+        "tasa_defectos": 0.04821428571428572,
+        "tiempo_reparacion_promedio": 3.269870851584697,
+        "ocupacion_suministro": 0.1120881851986475,
+        "retraso_promedio": 1.966459389449956
+      },
+      {
+        "fecha": "2025-02-18",
+        "produccion_final": 1104,
+        "tasa_defectos": 0.0588768115942029,
+        "tiempo_reparacion_promedio": 3.01280791721162,
+        "ocupacion_suministro": 0.1149009605509085,
+        "retraso_promedio": 2.015806325454535
+      },
+      {
+        "fecha": "2025-02-19",
+        "produccion_final": 1125,
+        "tasa_defectos": 0.04622222222222222,
+        "tiempo_reparacion_promedio": 2.282898678074788,
+        "ocupacion_suministro": 0.1129420085629175,
+        "retraso_promedio": 1.974510639211845
+      },
+      {
+        "fecha": "2025-02-20",
+        "produccion_final": 1103,
+        "tasa_defectos": 0.05530371713508613,
+        "tiempo_reparacion_promedio": 2.689981738095974,
+        "ocupacion_suministro": 0.1106666936183376,
+        "retraso_promedio": 1.969158249436612
+      },
+      {
+        "fecha": "2025-02-21",
+        "produccion_final": 1098,
+        "tasa_defectos": 0.05919854280510018,
+        "tiempo_reparacion_promedio": 3.462288340863808,
+        "ocupacion_suministro": 0.1139011504410408,
+        "retraso_promedio": 2.019523943990085
+      },
+      {
+        "fecha": "2025-02-22",
+        "produccion_final": 1117,
+        "tasa_defectos": 0.04834377797672337,
+        "tiempo_reparacion_promedio": 2.845875785185334,
+        "ocupacion_suministro": 0.112757958101093,
+        "retraso_promedio": 2.006369361229413
+      },
+      {
+        "fecha": "2025-02-23",
+        "produccion_final": 1117,
+        "tasa_defectos": 0.05102954341987467,
+        "tiempo_reparacion_promedio": 2.58352445508751,
+        "ocupacion_suministro": 0.1137629106137012,
+        "retraso_promedio": 2.002868144607415
+      },
+      {
+        "fecha": "2025-02-24",
+        "produccion_final": 1112,
+        "tasa_defectos": 0.04946043165467626,
+        "tiempo_reparacion_promedio": 3.246813735645554,
+        "ocupacion_suministro": 0.1150726939625976,
+        "retraso_promedio": 2.033086465770275
+      },
+      {
+        "fecha": "2025-02-25",
+        "produccion_final": 1120,
+        "tasa_defectos": 0.04732142857142857,
+        "tiempo_reparacion_promedio": 2.816773424116668,
+        "ocupacion_suministro": 0.1121690611200114,
+        "retraso_promedio": 1.974807414084707
+      },
+      {
+        "fecha": "2025-02-26",
+        "produccion_final": 1117,
+        "tasa_defectos": 0.05102954341987467,
+        "tiempo_reparacion_promedio": 3.358029694165021,
+        "ocupacion_suministro": 0.1112470219475842,
+        "retraso_promedio": 1.951702139431301
+      },
+      {
+        "fecha": "2025-02-27",
+        "produccion_final": 1123,
+        "tasa_defectos": 0.04630454140694568,
+        "tiempo_reparacion_promedio": 3.107769734222664,
+        "ocupacion_suministro": 0.1114134587535221,
+        "retraso_promedio": 1.968435667023358
+      },
+      {
+        "fecha": "2025-02-28",
+        "produccion_final": 1126,
+        "tasa_defectos": 0.0497335701598579,
+        "tiempo_reparacion_promedio": 2.743019498544401,
+        "ocupacion_suministro": 0.1149173708174017,
+        "retraso_promedio": 2.016094224866696
+      },
+      {
+        "fecha": "2025-03-01",
+        "produccion_final": 1111,
+        "tasa_defectos": 0.06030603060306031,
+        "tiempo_reparacion_promedio": 2.818573146792804,
+        "ocupacion_suministro": 0.1143135285410719,
+        "retraso_promedio": 2.00550050072056
+      },
+      {
+        "fecha": "2025-03-02",
+        "produccion_final": 1120,
+        "tasa_defectos": 0.05714285714285714,
+        "tiempo_reparacion_promedio": 3.070636995192319,
+        "ocupacion_suministro": 0.1115851834215429,
+        "retraso_promedio": 1.957634796869174
+      },
+      {
+        "fecha": "2025-03-03",
+        "produccion_final": 1108,
+        "tasa_defectos": 0.05685920577617329,
+        "tiempo_reparacion_promedio": 2.767859190568651,
+        "ocupacion_suministro": 0.1116602759347139,
+        "retraso_promedio": 1.958952209380945
+      },
+      {
+        "fecha": "2025-03-04",
+        "produccion_final": 1088,
+        "tasa_defectos": 0.06893382352941177,
+        "tiempo_reparacion_promedio": 3.469587154076039,
+        "ocupacion_suministro": 0.1127653589343869,
+        "retraso_promedio": 2.006501048654571
+      },
+      {
+        "fecha": "2025-03-05",
+        "produccion_final": 1119,
+        "tasa_defectos": 0.05004468275245755,
+        "tiempo_reparacion_promedio": 2.84102834181719,
+        "ocupacion_suministro": 0.1147283402425574,
+        "retraso_promedio": 2.0270024777837
+      },
+      {
+        "fecha": "2025-03-06",
+        "produccion_final": 1110,
+        "tasa_defectos": 0.05765765765765766,
+        "tiempo_reparacion_promedio": 4.290788768303683,
+        "ocupacion_suministro": 0.1154938190694445,
+        "retraso_promedio": 2.033341885025432
+      },
+      {
+        "fecha": "2025-03-07",
+        "produccion_final": 1122,
+        "tasa_defectos": 0.04545454545454546,
+        "tiempo_reparacion_promedio": 2.795500175314183,
+        "ocupacion_suministro": 0.1116049717729694,
+        "retraso_promedio": 1.971819289275077
+      },
+      {
+        "fecha": "2025-03-08",
+        "produccion_final": 1103,
+        "tasa_defectos": 0.05077062556663645,
+        "tiempo_reparacion_promedio": 3.101125654608822,
+        "ocupacion_suministro": 0.113098724384125,
+        "retraso_promedio": 2.012432818222865
+      },
+      {
+        "fecha": "2025-03-09",
+        "produccion_final": 1105,
+        "tasa_defectos": 0.05520361990950226,
+        "tiempo_reparacion_promedio": 3.044289993818925,
+        "ocupacion_suministro": 0.114469445772304,
+        "retraso_promedio": 2.015307143878591
+      },
+      {
+        "fecha": "2025-03-10",
+        "produccion_final": 1134,
+        "tasa_defectos": 0.04232804232804233,
+        "tiempo_reparacion_promedio": 2.498485035543566,
+        "ocupacion_suministro": 0.1127687789506321,
+        "retraso_promedio": 1.985365826595635
+      },
+      {
+        "fecha": "2025-03-11",
+        "produccion_final": 1117,
+        "tasa_defectos": 0.06266786034019696,
+        "tiempo_reparacion_promedio": 3.054336347814551,
+        "ocupacion_suministro": 0.1118670141212296,
+        "retraso_promedio": 1.962579195109292
+      },
+      {
+        "fecha": "2025-03-12",
+        "produccion_final": 1118,
+        "tasa_defectos": 0.04740608228980322,
+        "tiempo_reparacion_promedio": 2.859825234079997,
+        "ocupacion_suministro": 0.1158580060019578,
+        "retraso_promedio": 2.046961236783707
+      },
+      {
+        "fecha": "2025-03-13",
+        "produccion_final": 1124,
+        "tasa_defectos": 0.04893238434163701,
+        "tiempo_reparacion_promedio": 2.26649216431165,
+        "ocupacion_suministro": 0.1163359095977508,
+        "retraso_promedio": 2.040980870135979
+      },
+      {
+        "fecha": "2025-03-14",
+        "produccion_final": 1133,
+        "tasa_defectos": 0.04236540158870256,
+        "tiempo_reparacion_promedio": 2.966627272014721,
+        "ocupacion_suministro": 0.1151059929481458,
+        "retraso_promedio": 2.026513960354679
+      },
+      {
+        "fecha": "2025-03-15",
+        "produccion_final": 1102,
+        "tasa_defectos": 0.06170598911070781,
+        "tiempo_reparacion_promedio": 2.882442444761046,
+        "ocupacion_suministro": 0.1120865264704426,
+        "retraso_promedio": 1.973354339268356
+      },
+      {
+        "fecha": "2025-03-16",
+        "produccion_final": 1101,
+        "tasa_defectos": 0.05812897366030881,
+        "tiempo_reparacion_promedio": 3.327245630812932,
+        "ocupacion_suministro": 0.1098504554247885,
+        "retraso_promedio": 1.940820767222412
+      },
+      {
+        "fecha": "2025-03-17",
+        "produccion_final": 1115,
+        "tasa_defectos": 0.05739910313901345,
+        "tiempo_reparacion_promedio": 3.060486780153747,
+        "ocupacion_suministro": 0.1151837475571026,
+        "retraso_promedio": 2.013701880368927
+      },
+      {
+        "fecha": "2025-03-18",
+        "produccion_final": 1127,
+        "tasa_defectos": 0.05146406388642413,
+        "tiempo_reparacion_promedio": 3.096563287921701,
+        "ocupacion_suministro": 0.1124184073328347,
+        "retraso_promedio": 1.972252760225169
+      },
+      {
+        "fecha": "2025-03-19",
+        "produccion_final": 1122,
+        "tasa_defectos": 0.04901960784313725,
+        "tiempo_reparacion_promedio": 3.200296242263858,
+        "ocupacion_suministro": 0.1164068628512849,
+        "retraso_promedio": 2.04222566405763
+      },
+      {
+        "fecha": "2025-03-20",
+        "produccion_final": 1111,
+        "tasa_defectos": 0.0522052205220522,
+        "tiempo_reparacion_promedio": 2.968564270580522,
+        "ocupacion_suministro": 0.1109739243031025,
+        "retraso_promedio": 1.960670040690856
+      },
+      {
+        "fecha": "2025-03-21",
+        "produccion_final": 1111,
+        "tasa_defectos": 0.05850585058505851,
+        "tiempo_reparacion_promedio": 2.971484649712044,
+        "ocupacion_suministro": 0.1116139517265491,
+        "retraso_promedio": 1.951292862352258
+      },
+      {
+        "fecha": "2025-03-22",
+        "produccion_final": 1113,
+        "tasa_defectos": 0.05300988319856244,
+        "tiempo_reparacion_promedio": 2.895736674414549,
+        "ocupacion_suministro": 0.1092800748196523,
+        "retraso_promedio": 1.93758997907185
+      },
+      {
+        "fecha": "2025-03-23",
+        "produccion_final": 1117,
+        "tasa_defectos": 0.05640107430617726,
+        "tiempo_reparacion_promedio": 3.271458646626687,
+        "ocupacion_suministro": 0.1122526972583401,
+        "retraso_promedio": 1.969345565935792
+      },
+      {
+        "fecha": "2025-03-24",
+        "produccion_final": 1116,
+        "tasa_defectos": 0.0564516129032258,
+        "tiempo_reparacion_promedio": 3.064270836943122,
+        "ocupacion_suministro": 0.1132055643725638,
+        "retraso_promedio": 1.993055710784573
+      },
+      {
+        "fecha": "2025-03-25",
+        "produccion_final": 1107,
+        "tasa_defectos": 0.05781391147244806,
+        "tiempo_reparacion_promedio": 3.393437918438171,
+        "ocupacion_suministro": 0.1154795402749549,
+        "retraso_promedio": 2.033090497798502
+      },
+      {
+        "fecha": "2025-03-26",
+        "produccion_final": 1121,
+        "tasa_defectos": 0.04192685102586976,
+        "tiempo_reparacion_promedio": 2.933116664949998,
+        "ocupacion_suministro": 0.1142501434563808,
+        "retraso_promedio": 2.011446187612339
+      },
+      {
+        "fecha": "2025-03-27",
+        "produccion_final": 1101,
+        "tasa_defectos": 0.05994550408719346,
+        "tiempo_reparacion_promedio": 3.617518225304457,
+        "ocupacion_suministro": 0.1123805794780161,
+        "retraso_promedio": 1.985522605618659
+      },
+      {
+        "fecha": "2025-03-28",
+        "produccion_final": 1120,
+        "tasa_defectos": 0.05,
+        "tiempo_reparacion_promedio": 2.66615968127322,
+        "ocupacion_suministro": 0.1138864733096183,
+        "retraso_promedio": 1.998008303677514
+      },
+      {
+        "fecha": "2025-03-29",
+        "produccion_final": 1116,
+        "tasa_defectos": 0.0510752688172043,
+        "tiempo_reparacion_promedio": 2.937622931120199,
+        "ocupacion_suministro": 0.1158785062960807,
+        "retraso_promedio": 2.054583444965971
+      },
+      {
+        "fecha": "2025-03-30",
+        "produccion_final": 1112,
+        "tasa_defectos": 0.05485611510791367,
+        "tiempo_reparacion_promedio": 2.673124537670564,
+        "ocupacion_suministro": 0.113218863919508,
+        "retraso_promedio": 2.007426665239505
+      },
+      {
+        "fecha": "2025-03-31",
+        "produccion_final": 1097,
+        "tasa_defectos": 0.0601640838650866,
+        "tiempo_reparacion_promedio": 3.577311126614664,
+        "ocupacion_suministro": 0.1121538549590649,
+        "retraso_promedio": 1.981516872068285
+      },
+      {
+        "fecha": "2025-04-01",
+        "produccion_final": 1125,
+        "tasa_defectos": 0.04444444444444445,
+        "tiempo_reparacion_promedio": 3.043767090656662,
+        "ocupacion_suministro": 0.116327629405162,
+        "retraso_promedio": 2.048021644457077
+      },
+      {
+        "fecha": "2025-04-02",
+        "produccion_final": 1133,
+        "tasa_defectos": 0.04677846425419241,
+        "tiempo_reparacion_promedio": 2.597334562399946,
+        "ocupacion_suministro": 0.1135214094069927,
+        "retraso_promedio": 1.984640024597775
+      },
+      {
+        "fecha": "2025-04-03",
+        "produccion_final": 1110,
+        "tasa_defectos": 0.04954954954954955,
+        "tiempo_reparacion_promedio": 3.03283563606698,
+        "ocupacion_suministro": 0.112999634833015,
+        "retraso_promedio": 2.010669658950444
+      },
+      {
+        "fecha": "2025-04-04",
+        "produccion_final": 1117,
+        "tasa_defectos": 0.04923903312444047,
+        "tiempo_reparacion_promedio": 3.257414922847424,
+        "ocupacion_suministro": 0.1133588949968463,
+        "retraso_promedio": 1.995755193606449
+      },
+      {
+        "fecha": "2025-04-05",
+        "produccion_final": 1136,
+        "tasa_defectos": 0.04401408450704225,
+        "tiempo_reparacion_promedio": 2.935711071815056,
+        "ocupacion_suministro": 0.1116260217433815,
+        "retraso_promedio": 1.965246861679252
+      },
+      {
+        "fecha": "2025-04-06",
+        "produccion_final": 1120,
+        "tasa_defectos": 0.05,
+        "tiempo_reparacion_promedio": 2.676948000489728,
+        "ocupacion_suministro": 0.1162284558543566,
+        "retraso_promedio": 2.060788224368024
+      },
+      {
+        "fecha": "2025-04-07",
+        "produccion_final": 1102,
+        "tasa_defectos": 0.05626134301270418,
+        "tiempo_reparacion_promedio": 3.24107861834668,
+        "ocupacion_suministro": 0.1134798162523831,
+        "retraso_promedio": 2.012053479652182
+      },
+      {
+        "fecha": "2025-04-08",
+        "produccion_final": 1114,
+        "tasa_defectos": 0.0466786355475763,
+        "tiempo_reparacion_promedio": 2.561213814334538,
+        "ocupacion_suministro": 0.1107239133278897,
+        "retraso_promedio": 1.97721273799803
+      },
+      {
+        "fecha": "2025-04-09",
+        "produccion_final": 1097,
+        "tasa_defectos": 0.06654512306289881,
+        "tiempo_reparacion_promedio": 3.349910683309635,
+        "ocupacion_suministro": 0.1141352969003137,
+        "retraso_promedio": 2.009424241202706
+      },
+      {
+        "fecha": "2025-04-10",
+        "produccion_final": 1124,
+        "tasa_defectos": 0.04448398576512456,
+        "tiempo_reparacion_promedio": 2.651713273640935,
+        "ocupacion_suministro": 0.1138457192619099,
+        "retraso_promedio": 2.004326043343483
+      }
+    ],
+    "weekly": [
+      {
+        "periodo": 1,
+        "produccion_total": 5582,
+        "produccion_promedio": 1116.4,
+        "tasa_defectos_promedio": 0.05418923010857808,
+        "tiempo_reparacion_promedio": 2.9797361268831373,
+        "ocupacion_suministro_promedio": 0.11503388321693897
+      },
+      {
+        "periodo": 2,
+        "produccion_total": 7798,
+        "produccion_promedio": 1114.0,
+        "tasa_defectos_promedio": 0.05377859805786837,
+        "tiempo_reparacion_promedio": 3.0171620209232417,
+        "ocupacion_suministro_promedio": 0.1138932503973951
+      },
+      {
+        "periodo": 3,
+        "produccion_total": 7785,
+        "produccion_promedio": 1112.142857142857,
+        "tasa_defectos_promedio": 0.05519358727344104,
+        "tiempo_reparacion_promedio": 2.923559351034897,
+        "ocupacion_suministro_promedio": 0.1134684315163894
+      },
+      {
+        "periodo": 4,
+        "produccion_total": 7816,
+        "produccion_promedio": 1116.5714285714287,
+        "tasa_defectos_promedio": 0.05289949779855778,
+        "tiempo_reparacion_promedio": 3.0060790066388785,
+        "ocupacion_suministro_promedio": 0.11382337586738003
+      },
+      {
+        "periodo": 5,
+        "produccion_total": 7753,
+        "produccion_promedio": 1107.5714285714287,
+        "tasa_defectos_promedio": 0.05479343125694359,
+        "tiempo_reparacion_promedio": 2.9997298537476813,
+        "ocupacion_suministro_promedio": 0.11272927964655653
+      },
+      {
+        "periodo": 6,
+        "produccion_total": 7845,
+        "produccion_promedio": 1120.7142857142858,
+        "tasa_defectos_promedio": 0.0506392177433516,
+        "tiempo_reparacion_promedio": 2.959017327418651,
+        "ocupacion_suministro_promedio": 0.11367412773866772
+      },
+      {
+        "periodo": 7,
+        "produccion_total": 7812,
+        "produccion_promedio": 1116.0,
+        "tasa_defectos_promedio": 0.05227807918172078,
+        "tiempo_reparacion_promedio": 3.1929084580591662,
+        "ocupacion_suministro_promedio": 0.11264307607045394
+      },
+      {
+        "periodo": 8,
+        "produccion_total": 7784,
+        "produccion_promedio": 1112.0,
+        "tasa_defectos_promedio": 0.05245555726678503,
+        "tiempo_reparacion_promedio": 2.878178252300533,
+        "ocupacion_suministro_promedio": 0.11300283815523514
+      },
+      {
+        "periodo": 9,
+        "produccion_total": 7829,
+        "produccion_promedio": 1118.4285714285713,
+        "tasa_defectos_promedio": 0.05161405756552865,
+        "tiempo_reparacion_promedio": 3.02308803266849,
+        "ocupacion_suministro_promedio": 0.11295975979481883
+      },
+      {
+        "periodo": 10,
+        "produccion_total": 7755,
+        "produccion_promedio": 1107.857142857143,
+        "tasa_defectos_promedio": 0.05498916580662635,
+        "tiempo_reparacion_promedio": 3.1871684683582133,
+        "ocupacion_suministro_promedio": 0.11340299087292874
+      },
+      {
+        "periodo": 11,
+        "produccion_total": 7829,
+        "produccion_promedio": 1118.4285714285713,
+        "tasa_defectos_promedio": 0.0519335333799141,
+        "tiempo_reparacion_promedio": 2.8364934470483516,
+        "ocupacion_suministro_promedio": 0.11341038335927818
+      },
+      {
+        "periodo": 12,
+        "produccion_total": 7816,
+        "produccion_promedio": 1116.5714285714287,
+        "tasa_defectos_promedio": 0.05400068621148931,
+        "tiempo_reparacion_promedio": 3.066370078810444,
+        "ocupacion_suministro_promedio": 0.11258995226412373
+      },
+      {
+        "periodo": 13,
+        "produccion_total": 7793,
+        "produccion_promedio": 1113.2857142857142,
+        "tasa_defectos_promedio": 0.053152751916265006,
+        "tiempo_reparacion_promedio": 3.0407501136713897,
+        "ocupacion_suministro_promedio": 0.11404281015816035
+      },
+      {
+        "periodo": 14,
+        "produccion_total": 7838,
+        "produccion_promedio": 1119.7142857142858,
+        "tasa_defectos_promedio": 0.04916995139210796,
+        "tiempo_reparacion_promedio": 3.0173317729843516,
+        "ocupacion_suministro_promedio": 0.11374512874268843
+      },
+      {
+        "periodo": 15,
+        "produccion_total": 4437,
+        "produccion_promedio": 1109.25,
+        "tasa_defectos_promedio": 0.05349227184707596,
+        "tiempo_reparacion_promedio": 2.9509790974079473,
+        "ocupacion_suministro_promedio": 0.1130461864356241
+      }
+    ],
+    "monthly": [
+      {
+        "periodo": 1,
+        "produccion_total": 34493,
+        "produccion_promedio": 1112.6774193548388,
+        "tasa_defectos_promedio": 0.05477983580860842,
+        "tiempo_reparacion_promedio": 3.014296949625879,
+        "ocupacion_suministro_promedio": 0.11375982139244553
+      },
+      {
+        "periodo": 2,
+        "produccion_total": 31280,
+        "produccion_promedio": 1117.142857142857,
+        "tasa_defectos_promedio": 0.050745947704981774,
+        "tiempo_reparacion_promedio": 2.9844400419131816,
+        "ocupacion_suministro_promedio": 0.1130741148308766
+      },
+      {
+        "periodo": 3,
+        "produccion_total": 34521,
+        "produccion_promedio": 1113.5806451612902,
+        "tasa_defectos_promedio": 0.05406922363906669,
+        "tiempo_reparacion_promedio": 3.0445805168973727,
+        "ocupacion_suministro_promedio": 0.11329598462913279
+      },
+      {
+        "periodo": 4,
+        "produccion_total": 11178,
+        "produccion_promedio": 1117.8,
+        "tasa_defectos_promedio": 0.049799466326797305,
+        "tiempo_reparacion_promedio": 2.9347927673907583,
+        "ocupacion_suministro_promedio": 0.11362467919822503
+      }
+    ],
+    "quarterly": [
+      {
+        "periodo": 1,
+        "produccion_total": 100294,
+        "produccion_promedio": 1114.3777777777777,
+        "tasa_defectos_promedio": 0.053280081984637975,
+        "tiempo_reparacion_promedio": 3.0154391403976653,
+        "ocupacion_suministro_promedio": 0.11338672446592747
+      },
+      {
+        "periodo": 2,
+        "produccion_total": 11178,
+        "produccion_promedio": 1117.8,
+        "tasa_defectos_promedio": 0.049799466326797305,
+        "tiempo_reparacion_promedio": 2.9347927673907583,
+        "ocupacion_suministro_promedio": 0.11362467919822503
+      }
+    ],
+    "yearly": [
+      {
+        "periodo": 2025,
+        "produccion_total": 111472,
+        "produccion_promedio": 1114.72,
+        "tasa_defectos_promedio": 0.05293202041885392,
+        "tiempo_reparacion_promedio": 3.0073745030969765,
+        "ocupacion_suministro_promedio": 0.11341051993915724
+      }
+    ]
+  },
+  "bottlenecks": [
+    {
+      "estacion_id": 0,
+      "ocupacion_promedio": 0.9758433767010437,
+      "inactividad_promedio": 0.024156623298956414,
+      "posible_cuello_botella": true
+    },
+    {
+      "estacion_id": 1,
+      "ocupacion_promedio": 0.9677863360639088,
+      "inactividad_promedio": 0.032213663936091166,
+      "posible_cuello_botella": true
+    },
+    {
+      "estacion_id": 2,
+      "ocupacion_promedio": 0.9596117914970896,
+      "inactividad_promedio": 0.040388208502910236,
+      "posible_cuello_botella": true
+    },
+    {
+      "estacion_id": 3,
+      "ocupacion_promedio": 0.946767741410979,
+      "inactividad_promedio": 0.05323225858902094,
+      "posible_cuello_botella": true
+    },
+    {
+      "estacion_id": 5,
+      "ocupacion_promedio": 0.9413901544418796,
+      "inactividad_promedio": 0.05860984555812024,
+      "posible_cuello_botella": true
+    },
+    {
+      "estacion_id": 4,
+      "ocupacion_promedio": 0.940529212556831,
+      "inactividad_promedio": 0.05947078744316901,
+      "posible_cuello_botella": true
+    }
+  ]
+}

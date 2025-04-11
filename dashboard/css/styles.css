@@ -1,0 +1,176 @@
+/* Estilos generales */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    padding: 20px;
+}
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #1976d2;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.time-filter {
+    display: flex;
+    align-items: center;
+}
+
+.time-filter label {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.time-filter select {
+    width: 150px;
+}
+
+
+.dashboard-summary {
+    margin-bottom: 20px;
+}
+
+.card {
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    height: 100%;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.card-title {
+    color: #555;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #1976d2;
+    margin: 0;
+}
+
+/* Contenedores de gráficos */
+.chart-container {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.chart-container h3 {
+    color: #333;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+/* Filtros */
+.filters {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.filters label {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.filters select {
+    width: 150px;
+}
+
+/* Estilos específicos para gráficos */
+#production-chart,
+#station-occupation-chart,
+#bottleneck-chart,
+#station-status-chart,
+#plant-efficiency-chart {
+    height: 300px;
+    width: 100%;
+}
+
+#occupation-pie-chart {
+    height: 300px;
+    width: 100%;
+}
+
+/* Tooltip para gráficos */
+.tooltip {
+    position: absolute;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    border-radius: 5px;
+    pointer-events: none;
+    font-size: 12px;
+}
+
+/* Leyendas */
+.legend {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    margin-bottom: 5px;
+}
+
+.legend-color {
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+    border-radius: 2px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .dashboard-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .time-filter {
+        margin-top: 10px;
+    }
+
+    .card {
+        margin-bottom: 15px;
+    }
+}

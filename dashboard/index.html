@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard de Planta Manufacturera</title>
+    <!-- D3.js -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <!-- Estilos CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- Bootstrap para estilos básicos -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container-fluid">
+        <header class="dashboard-header">
+            <h1>Dashboard de Planta Manufacturera</h1>
+            <div class="time-filter">
+                <label for="time-period">Período:</label>
+                <select id="time-period" class="form-select">
+                    <option value="daily">Diario</option>
+                    <option value="weekly">Semanal</option>
+                    <option value="monthly">Mensual</option>
+                    <option value="quarterly">Trimestral</option>
+                    <option value="yearly">Anual</option>
+                </select>
+            </div>
+        </header>
+
+        <div class="row dashboard-summary">
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Producción Total</h5>
+                        <p class="card-text" id="total-production">--</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Tasa de Defectos</h5>
+                        <p class="card-text" id="defect-rate">--</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Tiempo Medio de Reparación</h5>
+                        <p class="card-text" id="avg-repair-time">--</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Retraso Promedio</h5>
+                        <p class="card-text" id="avg-delay">--</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8">
+                <div class="chart-container">
+                    <h3>Producción Diaria</h3>
+                    <div id="production-chart"></div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="chart-container">
+                    <h3>Distribución de Ocupación</h3>
+                    <div id="occupation-pie-chart"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="chart-container">
+                    <h3>Ocupación por Estación</h3>
+                    <div id="station-occupation-chart"></div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="chart-container">
+                    <h3>Análisis de Cuellos de Botella</h3>
+                    <div id="bottleneck-chart"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="chart-container">
+                    <h3>Estado de las Estaciones</h3>
+                    <div class="filters">
+                        <label for="station-filter">Estación:</label>
+                        <select id="station-filter" class="form-select">
+                            <option value="all">Todas</option>
+                            <option value="0">Estación 0</option>
+                            <option value="1">Estación 1</option>
+                            <option value="2">Estación 2</option>
+                            <option value="3">Estación 3</option>
+                            <option value="4">Estación 4</option>
+                            <option value="5">Estación 5</option>
+                        </select>
+                    </div>
+                    <div id="station-status-chart"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="chart-container">
+                    <h3>Eficiencia de la Planta</h3>
+                    <div id="plant-efficiency-chart"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/data-processor.js"></script>
+    <script src="js/charts.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
